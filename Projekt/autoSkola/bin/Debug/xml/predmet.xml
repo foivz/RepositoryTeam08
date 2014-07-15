@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPredmet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <predmet>
+    <ID_predmet>100</ID_predmet>
+    <naziv>B kategorija                                                                    </naziv>
+    <opis>motorna vozila, osim vozila A1, A2, A, F, G i M kategorije cija najveca dopuštena masa ne prelazi 3.500 kg i koja su dizajnirana i konstruirana za prijevoz ne više od 8 putnika, ne racunajuci sjedalo za vozaca.                                                                                                                                                                                              </opis>
+    <promjena>false</promjena>
+  </predmet>
+</ArrayOfPredmet>

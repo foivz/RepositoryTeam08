@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfKorisnik_grupa xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <korisnik_grupa>
+    <ID_grupa>102</ID_grupa>
+    <ID_korisnik>119</ID_korisnik>
+    <promjena>false</promjena>
+  </korisnik_grupa>
+  <korisnik_grupa>
+    <ID_grupa>102</ID_grupa>
+    <ID_korisnik>120</ID_korisnik>
+    <promjena>false</promjena>
+  </korisnik_grupa>
+  <korisnik_grupa>
+    <ID_grupa>102</ID_grupa>
+    <ID_korisnik>134</ID_korisnik>
+    <promjena>false</promjena>
+  </korisnik_grupa>
+  <korisnik_grupa>
+    <ID_grupa>102</ID_grupa>
+    <ID_korisnik>135</ID_korisnik>
+    <promjena>false</promjena>
+  </korisnik_grupa>
+  <korisnik_grupa>
+    <ID_grupa>102</ID_grupa>
+    <ID_korisnik>136</ID_korisnik>
+    <promjena>false</promjena>
+  </korisnik_grupa>
+  <korisnik_grupa>
+    <ID_grupa>102</ID_grupa>
+    <ID_korisnik>137</ID_korisnik>
+    <promjena>false</promjena>
+  </korisnik_grupa>
+  <korisnik_grupa>
+    <ID_grupa>102</ID_grupa>
+    <ID_korisnik>138</ID_korisnik>
+    <promjena>false</promjena>
+  </korisnik_grupa>
+</ArrayOfKorisnik_grupa>

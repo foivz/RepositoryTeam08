@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfKorisnikTip xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <korisnikTip>
+    <ID_korisnikTip>100</ID_korisnikTip>
+    <naziv>učenik                                  </naziv>
+    <promjena>false</promjena>
+  </korisnikTip>
+  <korisnikTip>
+    <ID_korisnikTip>101</ID_korisnikTip>
+    <naziv>instruktor                              </naziv>
+    <promjena>false</promjena>
+  </korisnikTip>
+  <korisnikTip>
+    <ID_korisnikTip>102</ID_korisnikTip>
+    <naziv>predavač                                </naziv>
+    <promjena>false</promjena>
+  </korisnikTip>
+  <korisnikTip>
+    <ID_korisnikTip>103</ID_korisnikTip>
+    <naziv>admin                                   </naziv>
+    <promjena>false</promjena>
+  </korisnikTip>
+</ArrayOfKorisnikTip>

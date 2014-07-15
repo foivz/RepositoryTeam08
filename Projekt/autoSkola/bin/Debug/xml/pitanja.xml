@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPitanja xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <pitanja>
+    <ID_pitanja>100</ID_pitanja>
+    <ID_cjelina>100</ID_cjelina>
+    <tekst>Kojom stranom su obvezni kretati se pješaci cestom izvan naselja?                                                                                                                                                                                                                                                                                                                                               </tekst>
+    <srcPitanja />
+    <promjena>false</promjena>
+  </pitanja>
+  <pitanja>
+    <ID_pitanja>101</ID_pitanja>
+    <ID_cjelina>100</ID_cjelina>
+    <tekst>Što ste dužni uciniti kada se približavate raskrižju?                                                                                                                                                                                                                                                                                                                                                           </tekst>
+    <srcPitanja />
+    <promjena>false</promjena>
+  </pitanja>
+  <pitanja>
+    <ID_pitanja>102</ID_pitanja>
+    <ID_cjelina>100</ID_cjelina>
+    <tekst>Što za vas znaci upaljeno žuto i crveno svijetlo istodobno upaljenih na semaforu?                                                                                                                                                                                                                                                                                                                               </tekst>
+    <srcPitanja />
+    <promjena>false</promjena>
+  </pitanja>
+  <pitanja>
+    <ID_pitanja>103</ID_pitanja>
+    <ID_cjelina>100</ID_cjelina>
+    <tekst>Cemu ste dužni prilagoditi brzinu vožnje?                                                                                                                                                                                                                                                                                                                                                                       </tekst>
+    <srcPitanja />
+    <promjena>false</promjena>
+  </pitanja>
+  <pitanja>
+    <ID_pitanja>104</ID_pitanja>
+    <ID_cjelina>100</ID_cjelina>
+    <tekst>Kako morate voziti u raskrižju?                                                                                                                                                                                                                                                                                                                                                                                 </tekst>
+    <srcPitanja />
+    <promjena>false</promjena>
+  </pitanja>
+  <pitanja>
+    <ID_pitanja>105</ID_pitanja>
+    <ID_cjelina>100</ID_cjelina>
+    <tekst>U normalnim prometnim uvijetima brzina vožnje na cesti ne smije se ograniciti prometnim znakom ispod:                                                                                                                                                                                                                                                                                                           </tekst>
+    <srcPitanja />
+    <promjena>false</promjena>
+  </pitanja>
+  <pitanja>
+    <ID_pitanja>106</ID_pitanja>
+    <ID_cjelina>100</ID_cjelina>
+    <tekst>Što je kolnik?                                                                                                                                                                                                                                                                                                                                                                                                  </tekst>
+    <srcPitanja />
+    <promjena>false</promjena>
+  </pitanja>
+  <pitanja>
+    <ID_pitanja>107</ID_pitanja>
+    <ID_cjelina>100</ID_cjelina>
+    <tekst>Koji je preduvjet za sigurno ponašanje sudionika u prometu?                                                                                                                                                                                                                                                                                                                                                     </tekst>
+    <srcPitanja />
+    <promjena>false</promjena>
+  </pitanja>
+  <pitanja>
+    <ID_pitanja>108</ID_pitanja>
+    <ID_cjelina>100</ID_cjelina>
+    <tekst>Koliko metara ceste mora osvijetliti svjetlosni snop kratkog svijetla ispred vozila noću?                                                                                                                                                                                                                                                                                                                       </tekst>
+    <srcPitanja />
+    <promjena>false</promjena>
+  </pitanja>
+  <pitanja>
+    <ID_pitanja>109</ID_pitanja>
+    <ID_cjelina>100</ID_cjelina>
+    <tekst>Na kojim dijelovima ceste zimi često dolazi do sklizanja ili zanošenja vozila?                                                                                                                                                                                                                                                                                                                                  </tekst>
+    <srcPitanja />
+    <promjena>false</promjena>
+  </pitanja>
+  <pitanja>
+    <ID_pitanja>110</ID_pitanja>
+    <ID_cjelina>100</ID_cjelina>
+    <tekst>Koji je najčešći uzrok događanja prometnih nesreća?                                                                                                                                                                                                                                                                                                                                                             </tekst>
+    <srcPitanja />
+    <promjena>false</promjena>
+  </pitanja>
+  <pitanja>
+    <ID_pitanja>111</ID_pitanja>
+    <ID_cjelina>100</ID_cjelina>
+    <tekst>Koji sudionici u prometu se, u pravilu, slabo uočavaju noću?                                                                                                                                                                                                                                                                                                                                                    </tekst>
+    <srcPitanja />
+    <promjena>false</promjena>
+  </pitanja>
+  <pitanja>
+    <ID_pitanja>112</ID_pitanja>
+    <ID_cjelina>100</ID_cjelina>
+    <tekst>Koja je svrha dopunskih ploča?                                                                                                                                                                                                                                                                                                                                                                                  </tekst>
+    <srcPitanja />
+    <promjena>false</promjena>
+  </pitanja>
+  <pitanja>
+    <ID_pitanja>113</ID_pitanja>
+    <ID_cjelina>100</ID_cjelina>
+    <tekst>Što mora učiniti vozač prije započinjanja neke radnje vozilom u prometu?                                                                                                                                                                                                                                                                                                                                        </tekst>
+    <srcPitanja />
+    <promjena>false</promjena>
+  </pitanja>
+  <pitanja>
+    <ID_pitanja>114</ID_pitanja>
+    <ID_cjelina>100</ID_cjelina>
+    <tekst>Što je dužan učiniti vozač koji se vozilom uključuje u promet na cesti?                                                                                                                                                                                                                                                                                                                                         </tekst>
+    <srcPitanja />
+    <promjena>false</promjena>
+  </pitanja>
+  <pitanja>
+    <ID_pitanja>115</ID_pitanja>
+    <ID_cjelina>100</ID_cjelina>
+    <tekst>Koju prometnu površinu vozač mora u pravilu koristiti za kretanje motornog vozila?                                                                                                                                                                                                                                                                                                                              </tekst>
+    <srcPitanja />
+    <promjena>false</promjena>
+  </pitanja>
+  <pitanja>
+    <ID_pitanja>116</ID_pitanja>
+    <ID_cjelina>100</ID_cjelina>
+    <tekst>Kako je dužan kretati se vozač vozilom kolnikom na kojem prometne trake nisu obilježene?                                                                                                                                                                                                                                                                                                                        </tekst>
+    <srcPitanja />
+    <promjena>false</promjena>
+  </pitanja>
+  <pitanja>
+    <ID_pitanja>117</ID_pitanja>
+    <ID_cjelina>100</ID_cjelina>
+    <tekst>Što vozač mora uključiti na vozilu za vrijeme kretanja unatrag?                                                                                                                                                                                                                                                                                                                                                 </tekst>
+    <srcPitanja />
+    <promjena>false</promjena>
+  </pitanja>
+  <pitanja>
+    <ID_pitanja>118</ID_pitanja>
+    <ID_cjelina>100</ID_cjelina>
+    <tekst>Kolika je najveća dopuštena brzina kretanja vozila na brzoj cesti i cesti namijenjenoj isključivo za promet motornih vozila?                                                                                                                                                                                                                                                                                    </tekst>
+    <srcPitanja />
+    <promjena>false</promjena>
+  </pitanja>
+  <pitanja>
+    <ID_pitanja>119</ID_pitanja>
+    <ID_cjelina>100</ID_cjelina>
+    <tekst>Što je dužan učiniti vozač koji se vozilom približava raskrižju?                                                                                                                                                                                                                                                                                                                                                </tekst>
+    <srcPitanja />
+    <promjena>false</promjena>
+  </pitanja>
+  <pitanja>
+    <ID_pitanja>120</ID_pitanja>
+    <ID_cjelina>100</ID_cjelina>
+    <tekst>O čemu se mora voditi računa prilikom mijenjanja prometne trake?                                                                                                                                                                                                                                                                                                                                                </tekst>
+    <srcPitanja />
+    <promjena>false</promjena>
+  </pitanja>
+  <pitanja>
+    <ID_pitanja>121</ID_pitanja>
+    <ID_cjelina>100</ID_cjelina>
+    <tekst>Koja vozila ste dužni propustiti na raskrižju cesta iste važnosti bez obzira na smjer iz kojeg dolaze, osim ako postavljenim prometnim znakom nije drukčije određeno?                                                                                                                                                                                                                                           </tekst>
+    <srcPitanja />
+    <promjena>false</promjena>
+  </pitanja>
+  <pitanja>
+    <ID_pitanja>122</ID_pitanja>
+    <ID_cjelina>100</ID_cjelina>
+    <tekst>Kojim kategorijama vozila ima pravo upravljati vozač kojemu je izdana vozačka dozvola za upravljanje vozilima B kategorije?                                                                                                                                                                                                                                                                                     </tekst>
+    <srcPitanja />
+    <promjena>false</promjena>
+  </pitanja>
+  <pitanja>
+    <ID_pitanja>123</ID_pitanja>
+    <ID_cjelina>100</ID_cjelina>
+    <tekst>Što znači defenzivno voziti?                                                                                                                                                                                                                                                                                                                                                                                    </tekst>
+    <srcPitanja />
+    <promjena>false</promjena>
+  </pitanja>
+  <pitanja>
+    <ID_pitanja>124</ID_pitanja>
+    <ID_cjelina>100</ID_cjelina>
+    <tekst>Kako ćete, kao vozač, postupiti ako vozilo koje vam dolazi iz suprotnog smjera ima upaljena duga svjetla?                                                                                                                                                                                                                                                                                                       </tekst>
+    <srcPitanja />
+    <promjena>false</promjena>
+  </pitanja>
+  <pitanja>
+    <ID_pitanja>125</ID_pitanja>
+    <ID_cjelina>100</ID_cjelina>
+    <tekst>Na kojim je mjestima moguće očekivati jak bočni vjetar?                                                                                                                                                                                                                                                                                                                                                         </tekst>
+    <srcPitanja />
+    <promjena>false</promjena>
+  </pitanja>
+  <pitanja>
+    <ID_pitanja>126</ID_pitanja>
+    <ID_cjelina>100</ID_cjelina>
+    <tekst>Što za vozača znači žuto svjetlo na semaforu upaljeno samostalno?                                                                                                                                                                                                                                                                                                                                               </tekst>
+    <srcPitanja />
+    <promjena>false</promjena>
+  </pitanja>
+  <pitanja>
+    <ID_pitanja>127</ID_pitanja>
+    <ID_cjelina>100</ID_cjelina>
+    <tekst>Koliko dugo vozač mora davati znak pokazivačima smjera prilikom obavljanja radnje vozilom?                                                                                                                                                                                                                                                                                                                      </tekst>
+    <srcPitanja />
+    <promjena>false</promjena>
+  </pitanja>
+  <pitanja>
+    <ID_pitanja>128</ID_pitanja>
+    <ID_cjelina>100</ID_cjelina>
+    <tekst>Po čemu najčešće vozač može prepoznati raskrižje?                                                                                                                                                                                                                                                                                                                                                               </tekst>
+    <srcPitanja />
+    <promjena>false</promjena>
+  </pitanja>
+  <pitanja>
+    <ID_pitanja>129</ID_pitanja>
+    <ID_cjelina>100</ID_cjelina>
+    <tekst>Kada se iznimno može pretjecati s desne strane?                                                                                                                                                                                                                                                                                                                                                                 </tekst>
+    <srcPitanja />
+    <promjena>false</promjena>
+  </pitanja>
+  <pitanja>
+    <ID_pitanja>130</ID_pitanja>
+    <ID_cjelina>100</ID_cjelina>
+    <tekst>Kada vozač vozilom ne smije početi pretjecati drugo vozilo?                                                                                                                                                                                                                                                                                                                                                     </tekst>
+    <srcPitanja />
+    <promjena>false</promjena>
+  </pitanja>
+</ArrayOfPitanja>

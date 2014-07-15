@@ -1,0 +1,411 @@
+C:\Users\Matej\Documents\Visual Studio 2012\Projects\autoSkola_1faza\autoSkola\bin\Debug\autoSkola.exe.config
+C:\Users\Matej\Documents\Visual Studio 2012\Projects\autoSkola_1faza\autoSkola\bin\Debug\autoSkola.exe
+C:\Users\Matej\Documents\Visual Studio 2012\Projects\autoSkola_1faza\autoSkola\bin\Debug\autoSkola.pdb
+C:\Users\Matej\Documents\Visual Studio 2012\Projects\autoSkola_1faza\autoSkola\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Matej\Documents\Visual Studio 2012\Projects\autoSkola_1faza\autoSkola\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Matej\Documents\Visual Studio 2012\Projects\autoSkola_1faza\autoSkola\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Matej\Documents\Visual Studio 2012\Projects\autoSkola_1faza\autoSkola\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Matej\Documents\Visual Studio 2012\Projects\autoSkola_1faza\autoSkola\obj\Debug\autoSkola_ucenik.csproj.ResolveComReference.cache
+C:\Users\Matej\Documents\Visual Studio 2012\Projects\autoSkola_1faza\autoSkola\obj\Debug\autoSkola.formUcenikC1Materijali.resources
+C:\Users\Matej\Documents\Visual Studio 2012\Projects\autoSkola_1faza\autoSkola\obj\Debug\autoSkola.formUcenikC1Predavanje1.resources
+C:\Users\Matej\Documents\Visual Studio 2012\Projects\autoSkola_1faza\autoSkola\obj\Debug\autoSkola.formUcenikC1ProbniTest.resources
+C:\Users\Matej\Documents\Visual Studio 2012\Projects\autoSkola_1faza\autoSkola\obj\Debug\autoSkola.formUcenikBTeorijaEvidencija.resources
+C:\Users\Matej\Documents\Visual Studio 2012\Projects\autoSkola_1faza\autoSkola\obj\Debug\autoSkola.formUcenikBKat.resources
+C:\Users\Matej\Documents\Visual Studio 2012\Projects\autoSkola_1faza\autoSkola\obj\Debug\autoSkola.formPrijava.resources
+C:\Users\Matej\Documents\Visual Studio 2012\Projects\autoSkola_1faza\autoSkola\obj\Debug\autoSkola.formUcenikPostavke.resources
+C:\Users\Matej\Documents\Visual Studio 2012\Projects\autoSkola_1faza\autoSkola\obj\Debug\autoSkola.formUcenikBTeorijaRezultat.resources
+C:\Users\Matej\Documents\Visual Studio 2012\Projects\autoSkola_1faza\autoSkola\obj\Debug\autoSkola.formUcenikGlavni.resources
+C:\Users\Matej\Documents\Visual Studio 2012\Projects\autoSkola_1faza\autoSkola\obj\Debug\autoSkola.formUcenikBVoznjaRezultat.resources
+C:\Users\Matej\Documents\Visual Studio 2012\Projects\autoSkola_1faza\autoSkola\obj\Debug\autoSkola.formUcenikC1Kat.resources
+C:\Users\Matej\Documents\Visual Studio 2012\Projects\autoSkola_1faza\autoSkola\obj\Debug\autoSkola.Properties.Resources.resources
+C:\Users\Matej\Documents\Visual Studio 2012\Projects\autoSkola_1faza\autoSkola\obj\Debug\autoSkola_ucenik.csproj.GenerateResource.Cache
+C:\Users\Matej\Documents\Visual Studio 2012\Projects\autoSkola_1faza\autoSkola\obj\Debug\autoSkola.exe
+C:\Users\Matej\Documents\Visual Studio 2012\Projects\autoSkola_1faza\autoSkola\obj\Debug\autoSkola.pdb
+C:\Users\Matej\Documents\Visual Studio 2012\Projects\autoSkola_1faza\autoSkola\obj\Debug\autoSkola_ucenik.csprojResolveAssemblyReference.cache
+C:\Users\Matej\Documents\Visual Studio 2012\Projects\autoSkola_1faza\autoSkola\obj\Debug\autoSkola.formUciteljGlavni.resources
+C:\Users\Matej\Documents\Visual Studio 2012\Projects\autoSkola_1faza\autoSkola\obj\Debug\autoSkola.formUciteljKategorijaA.resources
+C:\Users\Matej\Documents\Visual Studio 2012\Projects\autoSkola_1faza\autoSkola\obj\Debug\autoSkola.formUciteljNCjelina.resources
+C:\Users\Matej\Documents\Visual Studio 2012\Projects\autoSkola_1faza\autoSkola\obj\Debug\autoSkola.formUciteljNEvidencija.resources
+C:\Users\Matej\Documents\Visual Studio 2012\Projects\autoSkola_1faza\autoSkola\obj\Debug\autoSkola.formUciteljNMaterijal.resources
+C:\Users\Matej\Documents\Visual Studio 2012\Projects\autoSkola_1faza\autoSkola\obj\Debug\autoSkola.formUciteljNOdg.resources
+C:\Users\Matej\Documents\Visual Studio 2012\Projects\autoSkola_1faza\autoSkola\obj\Debug\autoSkola.formUciteljNPitanje.resources
+C:\Users\Matej\Documents\Visual Studio 2012\Projects\autoSkola_1faza\autoSkola\obj\Debug\autoSkola.formUciteljNRok.resources
+C:\Users\Matej\Documents\Visual Studio 2012\Projects\autoSkola_1faza\autoSkola\obj\Debug\autoSkola.formUciteljPostavke.resources
+C:\Users\bero\Desktop\autoSkola_1faza\autoSkola\bin\Debug\autoSkola.exe.config
+C:\Users\bero\Desktop\autoSkola_1faza\autoSkola\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\bero\Desktop\autoSkola_1faza\autoSkola\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\bero\Desktop\autoSkola_1faza\autoSkola\obj\Debug\autoSkola_ucenik.csproj.ResolveComReference.cache
+C:\Users\bero\Desktop\autoSkola_1faza\autoSkola\obj\Debug\autoSkola.exe
+C:\Users\bero\Desktop\autoSkola_1faza\autoSkola\obj\Debug\autoSkola.pdb
+C:\Users\bero\Desktop\autoSkola_1faza\autoSkola\bin\Debug\autoSkola.exe
+C:\Users\bero\Desktop\autoSkola_1faza\autoSkola\bin\Debug\autoSkola.pdb
+C:\Users\bero\Desktop\autoSkola_1faza\autoSkola\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\bero\Desktop\autoSkola_1faza\autoSkola\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\bero\Desktop\autoSkola_1faza\autoSkola\obj\Debug\autoSkola_ucenik.csprojResolveAssemblyReference.cache
+C:\Users\bero\Desktop\autoSkola_1faza\autoSkola\obj\Debug\autoSkola.formUcenikC1Materijali.resources
+C:\Users\bero\Desktop\autoSkola_1faza\autoSkola\obj\Debug\autoSkola.formUcenikC1Predavanje1.resources
+C:\Users\bero\Desktop\autoSkola_1faza\autoSkola\obj\Debug\autoSkola.formUcenikC1ProbniTest.resources
+C:\Users\bero\Desktop\autoSkola_1faza\autoSkola\obj\Debug\autoSkola.formUcenikBTeorijaEvidencija.resources
+C:\Users\bero\Desktop\autoSkola_1faza\autoSkola\obj\Debug\autoSkola.formUcenikBKat.resources
+C:\Users\bero\Desktop\autoSkola_1faza\autoSkola\obj\Debug\autoSkola.formPrijava.resources
+C:\Users\bero\Desktop\autoSkola_1faza\autoSkola\obj\Debug\autoSkola.formUcenikPostavke.resources
+C:\Users\bero\Desktop\autoSkola_1faza\autoSkola\obj\Debug\autoSkola.formUcenikBTeorijaRezultat.resources
+C:\Users\bero\Desktop\autoSkola_1faza\autoSkola\obj\Debug\autoSkola.formUcenikGlavni.resources
+C:\Users\bero\Desktop\autoSkola_1faza\autoSkola\obj\Debug\autoSkola.formUcenikBVoznjaRezultat.resources
+C:\Users\bero\Desktop\autoSkola_1faza\autoSkola\obj\Debug\autoSkola.formUcenikC1Kat.resources
+C:\Users\bero\Desktop\autoSkola_1faza\autoSkola\obj\Debug\autoSkola.formUciteljGlavni.resources
+C:\Users\bero\Desktop\autoSkola_1faza\autoSkola\obj\Debug\autoSkola.formUciteljKategorijaA.resources
+C:\Users\bero\Desktop\autoSkola_1faza\autoSkola\obj\Debug\autoSkola.formUciteljNCjelina.resources
+C:\Users\bero\Desktop\autoSkola_1faza\autoSkola\obj\Debug\autoSkola.formUciteljNEvidencija.resources
+C:\Users\bero\Desktop\autoSkola_1faza\autoSkola\obj\Debug\autoSkola.formUciteljNMaterijal.resources
+C:\Users\bero\Desktop\autoSkola_1faza\autoSkola\obj\Debug\autoSkola.formUciteljNOdg.resources
+C:\Users\bero\Desktop\autoSkola_1faza\autoSkola\obj\Debug\autoSkola.formUciteljNPitanje.resources
+C:\Users\bero\Desktop\autoSkola_1faza\autoSkola\obj\Debug\autoSkola.formUciteljNRok.resources
+C:\Users\bero\Desktop\autoSkola_1faza\autoSkola\obj\Debug\autoSkola.formUciteljPostavke.resources
+C:\Users\bero\Desktop\autoSkola_1faza\autoSkola\obj\Debug\autoSkola.formUciteljStat.resources
+C:\Users\bero\Desktop\autoSkola_1faza\autoSkola\obj\Debug\autoSkola.Properties.Resources.resources
+C:\Users\bero\Desktop\autoSkola_1faza\autoSkola\obj\Debug\autoSkola_ucenik.csproj.GenerateResource.Cache
+C:\Users\Matej\Documents\Visual Studio 2012\Projects\autoSkola_1faza\autoSkola\obj\Debug\autoSkola.formUciteljStat.resources
+C:\Users\Matej\Documents\Visual Studio 2012\Projects\autoSkola_1faza\autoSkola\bin\Debug\System.Data.SQLite.dll
+C:\Users\Matej\Documents\Visual Studio 2012\Projects\autoSkola_1faza\autoSkola\bin\Debug\System.Data.SQLite.xml
+C:\Users\bero\Documents\GitHub\pi\autoSkola_2faza\autoSkola\bin\Debug\autoSkola.exe.config
+C:\Users\bero\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\bero\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\bero\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola_ucenik.csproj.ResolveComReference.cache
+C:\Users\bero\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.exe
+C:\Users\bero\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.pdb
+C:\Users\bero\Documents\GitHub\pi\autoSkola_2faza\autoSkola\bin\Debug\autoSkola.exe
+C:\Users\bero\Documents\GitHub\pi\autoSkola_2faza\autoSkola\bin\Debug\autoSkola.pdb
+C:\Users\bero\Documents\GitHub\pi\autoSkola_2faza\autoSkola\bin\Debug\System.Data.SQLite.xml
+C:\Users\bero\Documents\GitHub\pi\autoSkola_2faza\autoSkola\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\bero\Documents\GitHub\pi\autoSkola_2faza\autoSkola\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\bero\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola_ucenik.csprojResolveAssemblyReference.cache
+C:\Users\bero\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUcenikC1Materijali.resources
+C:\Users\bero\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUcenikC1Predavanje1.resources
+C:\Users\bero\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUcenikC1ProbniTest.resources
+C:\Users\bero\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUcenikBKat.resources
+C:\Users\bero\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formPrijava.resources
+C:\Users\bero\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUcenikBTeorijaRezultat.resources
+C:\Users\bero\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUcenikGlavni.resources
+C:\Users\bero\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUcenikBVoznjaRezultat.resources
+C:\Users\bero\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUciteljGlavni.resources
+C:\Users\bero\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUciteljKategorijaA.resources
+C:\Users\bero\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUciteljNCjelina.resources
+C:\Users\bero\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUciteljNEvidencija.resources
+C:\Users\bero\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUciteljNMaterijal.resources
+C:\Users\bero\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUciteljNOdg.resources
+C:\Users\bero\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUciteljNPitanje.resources
+C:\Users\bero\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUciteljNRok.resources
+C:\Users\bero\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUciteljPostavke.resources
+C:\Users\bero\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUciteljStat.resources
+C:\Users\bero\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.Properties.Resources.resources
+C:\Users\bero\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola_ucenik.csproj.GenerateResource.Cache
+C:\Users\Matej\Documents\GitHub\pi\autoSkola_2faza\autoSkola\bin\Debug\autoSkola.exe.config
+C:\Users\Matej\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Matej\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Matej\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola_ucenik.csproj.ResolveComReference.cache
+C:\Users\Matej\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.exe
+C:\Users\Matej\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.pdb
+C:\Users\Matej\Documents\GitHub\pi\autoSkola_2faza\autoSkola\bin\Debug\autoSkola.exe
+C:\Users\Matej\Documents\GitHub\pi\autoSkola_2faza\autoSkola\bin\Debug\autoSkola.pdb
+C:\Users\Matej\Documents\GitHub\pi\autoSkola_2faza\autoSkola\bin\Debug\System.Data.SQLite.xml
+C:\Users\Matej\Documents\GitHub\pi\autoSkola_2faza\autoSkola\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Matej\Documents\GitHub\pi\autoSkola_2faza\autoSkola\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Matej\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola_ucenik.csprojResolveAssemblyReference.cache
+C:\Users\Matej\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUcenikC1Materijali.resources
+C:\Users\Matej\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUcenikC1Predavanje1.resources
+C:\Users\Matej\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUcenikC1ProbniTest.resources
+C:\Users\Matej\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUcenikBKat.resources
+C:\Users\Matej\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formPrijava.resources
+C:\Users\Matej\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUcenikBTeorijaRezultat.resources
+C:\Users\Matej\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUcenikBVoznjaRezultat.resources
+C:\Users\Matej\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUciteljGlavni.resources
+C:\Users\Matej\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUciteljKategorijaA.resources
+C:\Users\Matej\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUciteljNCjelina.resources
+C:\Users\Matej\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUciteljNEvidencija.resources
+C:\Users\Matej\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUciteljNMaterijal.resources
+C:\Users\Matej\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUciteljNOdg.resources
+C:\Users\Matej\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUciteljNPitanje.resources
+C:\Users\Matej\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUciteljNRok.resources
+C:\Users\Matej\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUciteljPostavke.resources
+C:\Users\Matej\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUciteljStat.resources
+C:\Users\Matej\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.Properties.Resources.resources
+C:\Users\Matej\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola_ucenik.csproj.GenerateResource.Cache
+C:\Users\Gaby\pi-1\pi\autoSkola_2faza\autoSkola\bin\Debug\autoSkola.exe.config
+C:\Users\Gaby\pi-1\pi\autoSkola_2faza\autoSkola\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Gaby\pi-1\pi\autoSkola_2faza\autoSkola\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Gaby\pi-1\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola_ucenik.csproj.ResolveComReference.cache
+C:\Users\Gaby\pi-1\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.exe
+C:\Users\Gaby\pi-1\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.pdb
+C:\Users\Gaby\pi-1\pi\autoSkola_2faza\autoSkola\bin\Debug\autoSkola.exe
+C:\Users\Gaby\pi-1\pi\autoSkola_2faza\autoSkola\bin\Debug\autoSkola.pdb
+C:\Users\Gaby\pi-1\pi\autoSkola_2faza\autoSkola\bin\Debug\System.Data.SQLite.xml
+C:\Users\Gaby\pi-1\pi\autoSkola_2faza\autoSkola\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Gaby\pi-1\pi\autoSkola_2faza\autoSkola\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Gaby\pi-1\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola_ucenik.csprojResolveAssemblyReference.cache
+C:\Users\Gaby\pi-1\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUcenikC1Materijali.resources
+C:\Users\Gaby\pi-1\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUcenikC1Predavanje1.resources
+C:\Users\Gaby\pi-1\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUcenikC1ProbniTest.resources
+C:\Users\Gaby\pi-1\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUcenikBTeorijaEvidencija.resources
+C:\Users\Gaby\pi-1\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUcenikBKat.resources
+C:\Users\Gaby\pi-1\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formPrijava.resources
+C:\Users\Gaby\pi-1\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUcenikPostavke.resources
+C:\Users\Gaby\pi-1\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUcenikBTeorijaRezultat.resources
+C:\Users\Gaby\pi-1\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUcenikGlavni.resources
+C:\Users\Gaby\pi-1\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUcenikBVoznjaRezultat.resources
+C:\Users\Gaby\pi-1\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUcenikC1Kat.resources
+C:\Users\Gaby\pi-1\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUciteljGlavni.resources
+C:\Users\Gaby\pi-1\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUciteljKategorijaA.resources
+C:\Users\Gaby\pi-1\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUciteljNCjelina.resources
+C:\Users\Gaby\pi-1\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUciteljNEvidencija.resources
+C:\Users\Gaby\pi-1\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUciteljNMaterijal.resources
+C:\Users\Gaby\pi-1\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUciteljNOdg.resources
+C:\Users\Gaby\pi-1\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUciteljNPitanje.resources
+C:\Users\Gaby\pi-1\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUciteljNRok.resources
+C:\Users\Gaby\pi-1\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUciteljPostavke.resources
+C:\Users\Gaby\pi-1\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUciteljStat.resources
+C:\Users\Gaby\pi-1\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.Properties.Resources.resources
+C:\Users\Gaby\pi-1\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola_ucenik.csproj.GenerateResource.Cache
+C:\Users\Matej\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formLozinkaPromjena.resources
+C:\Users\bero\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUcenikPredmet.resources
+C:\Users\bero\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formLozinkaPromjena.resources
+C:\Users\Matej\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUcenikGlavni.resources
+C:\Users\Matej\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUcenikEvidencija.resources
+C:\Users\Matej\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUcenikPredmet.resources
+C:\Users\bero\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUcenikEvidencija.resources
+C:\Users\bero\Desktop\autoSkola_2faza\autoSkola\bin\Debug\autoSkola.exe.config
+C:\Users\bero\Desktop\autoSkola_2faza\autoSkola\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\bero\Desktop\autoSkola_2faza\autoSkola\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\bero\Desktop\autoSkola_2faza\autoSkola\obj\Debug\autoSkola_ucenik.csproj.ResolveComReference.cache
+C:\Users\bero\Desktop\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.exe
+C:\Users\bero\Desktop\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.pdb
+C:\Users\bero\Desktop\autoSkola_2faza\autoSkola\bin\Debug\autoSkola.exe
+C:\Users\bero\Desktop\autoSkola_2faza\autoSkola\bin\Debug\autoSkola.pdb
+C:\Users\bero\Desktop\autoSkola_2faza\autoSkola\bin\Debug\System.Data.SQLite.xml
+C:\Users\bero\Desktop\autoSkola_2faza\autoSkola\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\bero\Desktop\autoSkola_2faza\autoSkola\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\bero\Desktop\autoSkola_2faza\autoSkola\obj\Debug\autoSkola_ucenik.csprojResolveAssemblyReference.cache
+C:\Users\bero\Desktop\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUcenikEvidencija.resources
+C:\Users\bero\Desktop\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUcenikPredmet.resources
+C:\Users\bero\Desktop\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formLozinkaPromjena.resources
+C:\Users\bero\Desktop\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUcenikC1Materijali.resources
+C:\Users\bero\Desktop\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUcenikC1Predavanje1.resources
+C:\Users\bero\Desktop\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUcenikC1ProbniTest.resources
+C:\Users\bero\Desktop\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUcenikBKat.resources
+C:\Users\bero\Desktop\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formPrijava.resources
+C:\Users\bero\Desktop\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUcenikPostavke.resources
+C:\Users\bero\Desktop\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUcenikBTeorijaRezultat.resources
+C:\Users\bero\Desktop\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUcenikGlavni.resources
+C:\Users\bero\Desktop\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUcenikBVoznjaRezultat.resources
+C:\Users\bero\Desktop\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUciteljGlavni.resources
+C:\Users\bero\Desktop\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUciteljKategorijaA.resources
+C:\Users\bero\Desktop\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUciteljNCjelina.resources
+C:\Users\bero\Desktop\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUciteljNEvidencija.resources
+C:\Users\bero\Desktop\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUciteljNMaterijal.resources
+C:\Users\bero\Desktop\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUciteljNOdg.resources
+C:\Users\bero\Desktop\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUciteljNPitanje.resources
+C:\Users\bero\Desktop\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUciteljNRok.resources
+C:\Users\bero\Desktop\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUciteljPostavke.resources
+C:\Users\bero\Desktop\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUciteljStat.resources
+C:\Users\bero\Desktop\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.Properties.Resources.resources
+C:\Users\bero\Desktop\autoSkola_2faza\autoSkola\obj\Debug\autoSkola_ucenik.csproj.GenerateResource.Cache
+C:\Users\Matej\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formPostavke.resources
+C:\Users\bero\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formPostavke.resources
+C:\Users\stroj\Documents\GitHub\pi\autoSkola_2faza\autoSkola\bin\Debug\autoSkola.exe.config
+C:\Users\stroj\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\stroj\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\stroj\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola_ucenik.csproj.ResolveComReference.cache
+C:\Users\stroj\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.exe
+C:\Users\stroj\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.pdb
+C:\Users\stroj\Documents\GitHub\pi\autoSkola_2faza\autoSkola\bin\Debug\autoSkola.exe
+C:\Users\stroj\Documents\GitHub\pi\autoSkola_2faza\autoSkola\bin\Debug\autoSkola.pdb
+C:\Users\stroj\Documents\GitHub\pi\autoSkola_2faza\autoSkola\bin\Debug\System.Data.SQLite.dll
+C:\Users\stroj\Documents\GitHub\pi\autoSkola_2faza\autoSkola\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\stroj\Documents\GitHub\pi\autoSkola_2faza\autoSkola\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\stroj\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola_ucenik.csprojResolveAssemblyReference.cache
+C:\Users\stroj\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUcenikEvidencija.resources
+C:\Users\stroj\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUcenikPredmet.resources
+C:\Users\stroj\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formLozinkaPromjena.resources
+C:\Users\stroj\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUcenikC1Materijali.resources
+C:\Users\stroj\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUcenikC1Predavanje1.resources
+C:\Users\stroj\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUcenikC1ProbniTest.resources
+C:\Users\stroj\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUcenikBKat.resources
+C:\Users\stroj\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formPrijava.resources
+C:\Users\stroj\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formPostavke.resources
+C:\Users\stroj\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUcenikBTeorijaRezultat.resources
+C:\Users\stroj\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUcenikGlavni.resources
+C:\Users\stroj\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUcenikBVoznjaRezultat.resources
+C:\Users\stroj\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUciteljGlavni.resources
+C:\Users\stroj\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUciteljKategorijaA.resources
+C:\Users\stroj\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUciteljNCjelina.resources
+C:\Users\stroj\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUciteljNEvidencija.resources
+C:\Users\stroj\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUciteljNMaterijal.resources
+C:\Users\stroj\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUciteljNOdg.resources
+C:\Users\stroj\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUciteljNPitanje.resources
+C:\Users\stroj\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUciteljNRok.resources
+C:\Users\stroj\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUciteljPostavke.resources
+C:\Users\stroj\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUciteljStat.resources
+C:\Users\stroj\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.Properties.Resources.resources
+C:\Users\stroj\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola_ucenik.csproj.GenerateResource.Cache
+C:\Users\stroj\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.forme.frmCRUDKorisnika.resources
+C:\Users\stroj\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.forme.frmGlavna.resources
+C:\Users\stroj\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.forme.frmDodajGrupu.resources
+C:\Users\stroj\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.forme.frmDodajUcenikaUgrupu.resources
+C:\Users\stroj\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.forme.frmEvidentirajDogadaj.resources
+C:\Users\stroj\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.forme.frmKalendar.resources
+=======
+C:\Users\stroj\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.forme.Materijali.resources
+C:\Users\stroj\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.forme.frmPredmeti.resources
+C:\Users\stroj\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.forme.Odgovori.resources
+C:\Users\stroj\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.forme.frmUcenik.resources
+C:\Users\stroj\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.forme.frmPitanja_odgovori.resources
+C:\Users\stroj\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.forme.frmIspitniRok.resources
+C:\Users\stroj\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.forme.frmOtvoriRok.resources
+C:\Users\stroj\Documents\GitHub\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.forme.PristupiIspitu.resources
+C:\Users\Gaby\Desktop\Projekt i Baza PI\pi_zadnja verzija\pi\autoSkola_2faza\autoSkola\bin\Debug\autoSkola.exe.config
+C:\Users\Gaby\Desktop\Projekt i Baza PI\pi_zadnja verzija\pi\autoSkola_2faza\autoSkola\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Gaby\Desktop\Projekt i Baza PI\pi_zadnja verzija\pi\autoSkola_2faza\autoSkola\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Gaby\Desktop\Projekt i Baza PI\pi_zadnja verzija\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola_ucenik.csproj.ResolveComReference.cache
+C:\Users\Gaby\Desktop\Projekt i Baza PI\pi_zadnja verzija\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.exe
+C:\Users\Gaby\Desktop\Projekt i Baza PI\pi_zadnja verzija\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.pdb
+C:\Users\Gaby\Desktop\Projekt i Baza PI\pi_zadnja verzija\pi\autoSkola_2faza\autoSkola\bin\Debug\autoSkola.exe
+C:\Users\Gaby\Desktop\Projekt i Baza PI\pi_zadnja verzija\pi\autoSkola_2faza\autoSkola\bin\Debug\autoSkola.pdb
+C:\Users\Gaby\Desktop\Projekt i Baza PI\pi_zadnja verzija\pi\autoSkola_2faza\autoSkola\bin\Debug\System.Data.SQLite.xml
+C:\Users\Gaby\Desktop\Projekt i Baza PI\pi_zadnja verzija\pi\autoSkola_2faza\autoSkola\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Gaby\Desktop\Projekt i Baza PI\pi_zadnja verzija\pi\autoSkola_2faza\autoSkola\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Gaby\Desktop\Projekt i Baza PI\pi_zadnja verzija\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola_ucenik.csprojResolveAssemblyReference.cache
+C:\Users\Gaby\Desktop\Projekt i Baza PI\pi_zadnja verzija\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUcenikEvidencija.resources
+C:\Users\Gaby\Desktop\Projekt i Baza PI\pi_zadnja verzija\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUcenikPredmet.resources
+C:\Users\Gaby\Desktop\Projekt i Baza PI\pi_zadnja verzija\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formLozinkaPromjena.resources
+C:\Users\Gaby\Desktop\Projekt i Baza PI\pi_zadnja verzija\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUcenikC1Materijali.resources
+C:\Users\Gaby\Desktop\Projekt i Baza PI\pi_zadnja verzija\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUcenikC1Predavanje1.resources
+C:\Users\Gaby\Desktop\Projekt i Baza PI\pi_zadnja verzija\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUcenikC1ProbniTest.resources
+C:\Users\Gaby\Desktop\Projekt i Baza PI\pi_zadnja verzija\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUcenikBKat.resources
+C:\Users\Gaby\Desktop\Projekt i Baza PI\pi_zadnja verzija\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formPrijava.resources
+C:\Users\Gaby\Desktop\Projekt i Baza PI\pi_zadnja verzija\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formPostavke.resources
+C:\Users\Gaby\Desktop\Projekt i Baza PI\pi_zadnja verzija\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUcenikBTeorijaRezultat.resources
+C:\Users\Gaby\Desktop\Projekt i Baza PI\pi_zadnja verzija\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUcenikGlavni.resources
+C:\Users\Gaby\Desktop\Projekt i Baza PI\pi_zadnja verzija\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUcenikBVoznjaRezultat.resources
+C:\Users\Gaby\Desktop\Projekt i Baza PI\pi_zadnja verzija\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUciteljGlavni.resources
+C:\Users\Gaby\Desktop\Projekt i Baza PI\pi_zadnja verzija\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUciteljKategorijaA.resources
+C:\Users\Gaby\Desktop\Projekt i Baza PI\pi_zadnja verzija\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUciteljNCjelina.resources
+C:\Users\Gaby\Desktop\Projekt i Baza PI\pi_zadnja verzija\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUciteljNEvidencija.resources
+C:\Users\Gaby\Desktop\Projekt i Baza PI\pi_zadnja verzija\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUciteljNMaterijal.resources
+C:\Users\Gaby\Desktop\Projekt i Baza PI\pi_zadnja verzija\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUciteljNOdg.resources
+C:\Users\Gaby\Desktop\Projekt i Baza PI\pi_zadnja verzija\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUciteljNPitanje.resources
+C:\Users\Gaby\Desktop\Projekt i Baza PI\pi_zadnja verzija\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUciteljNRok.resources
+C:\Users\Gaby\Desktop\Projekt i Baza PI\pi_zadnja verzija\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUciteljPostavke.resources
+C:\Users\Gaby\Desktop\Projekt i Baza PI\pi_zadnja verzija\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUciteljStat.resources
+C:\Users\Gaby\Desktop\Projekt i Baza PI\pi_zadnja verzija\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.forme.frmCRUDKorisnika.resources
+C:\Users\Gaby\Desktop\Projekt i Baza PI\pi_zadnja verzija\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.forme.frmDodajGrupu.resources
+C:\Users\Gaby\Desktop\Projekt i Baza PI\pi_zadnja verzija\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.forme.frmDodajUcenikaUgrupu.resources
+C:\Users\Gaby\Desktop\Projekt i Baza PI\pi_zadnja verzija\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.forme.frmEvidentirajDogadaj.resources
+C:\Users\Gaby\Desktop\Projekt i Baza PI\pi_zadnja verzija\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.forme.frmGlavna.resources
+C:\Users\Gaby\Desktop\Projekt i Baza PI\pi_zadnja verzija\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.forme.frmIspitniRok.resources
+C:\Users\Gaby\Desktop\Projekt i Baza PI\pi_zadnja verzija\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.forme.frmKalendar.resources
+C:\Users\Gaby\Desktop\Projekt i Baza PI\pi_zadnja verzija\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.forme.frmOtvoriRok.resources
+C:\Users\Gaby\Desktop\Projekt i Baza PI\pi_zadnja verzija\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.forme.frmPitanja_odgovori.resources
+C:\Users\Gaby\Desktop\Projekt i Baza PI\pi_zadnja verzija\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.forme.frmPredmeti.resources
+C:\Users\Gaby\Desktop\Projekt i Baza PI\pi_zadnja verzija\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.forme.frmUcenik.resources
+C:\Users\Gaby\Desktop\Projekt i Baza PI\pi_zadnja verzija\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.forme.Materijali.resources
+C:\Users\Gaby\Desktop\Projekt i Baza PI\pi_zadnja verzija\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.forme.Odgovori.resources
+C:\Users\Gaby\Desktop\Projekt i Baza PI\pi_zadnja verzija\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.forme.PristupiIspitu.resources
+C:\Users\Gaby\Desktop\Projekt i Baza PI\pi_zadnja verzija\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.Properties.Resources.resources
+C:\Users\Gaby\Desktop\Projekt i Baza PI\pi_zadnja verzija\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola_ucenik.csproj.GenerateResource.Cache
+D:\Gabrijela Projekt\pi_zadnja verzija\pi\autoSkola_2faza\autoSkola\bin\Debug\autoSkola.exe.config
+D:\Gabrijela Projekt\pi_zadnja verzija\pi\autoSkola_2faza\autoSkola\obj\Debug\Interop.AcroPDFLib.dll
+D:\Gabrijela Projekt\pi_zadnja verzija\pi\autoSkola_2faza\autoSkola\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\Gabrijela Projekt\pi_zadnja verzija\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola_ucenik.csproj.ResolveComReference.cache
+D:\Gabrijela Projekt\pi_zadnja verzija\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.exe
+D:\Gabrijela Projekt\pi_zadnja verzija\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.pdb
+D:\Gabrijela Projekt\pi_zadnja verzija\pi\autoSkola_2faza\autoSkola\bin\Debug\autoSkola.exe
+D:\Gabrijela Projekt\pi_zadnja verzija\pi\autoSkola_2faza\autoSkola\bin\Debug\autoSkola.pdb
+D:\Gabrijela Projekt\pi_zadnja verzija\pi\autoSkola_2faza\autoSkola\bin\Debug\System.Data.SQLite.xml
+D:\Gabrijela Projekt\pi_zadnja verzija\pi\autoSkola_2faza\autoSkola\bin\Debug\Interop.AcroPDFLib.dll
+D:\Gabrijela Projekt\pi_zadnja verzija\pi\autoSkola_2faza\autoSkola\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\Gabrijela Projekt\pi_zadnja verzija\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola_ucenik.csprojResolveAssemblyReference.cache
+D:\Gabrijela Projekt\pi_zadnja verzija\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUcenikEvidencija.resources
+D:\Gabrijela Projekt\pi_zadnja verzija\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUcenikPredmet.resources
+D:\Gabrijela Projekt\pi_zadnja verzija\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formLozinkaPromjena.resources
+D:\Gabrijela Projekt\pi_zadnja verzija\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUcenikC1Materijali.resources
+D:\Gabrijela Projekt\pi_zadnja verzija\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUcenikC1Predavanje1.resources
+D:\Gabrijela Projekt\pi_zadnja verzija\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUcenikC1ProbniTest.resources
+D:\Gabrijela Projekt\pi_zadnja verzija\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUcenikBKat.resources
+D:\Gabrijela Projekt\pi_zadnja verzija\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formPrijava.resources
+D:\Gabrijela Projekt\pi_zadnja verzija\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formPostavke.resources
+D:\Gabrijela Projekt\pi_zadnja verzija\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUcenikBTeorijaRezultat.resources
+D:\Gabrijela Projekt\pi_zadnja verzija\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUcenikGlavni.resources
+D:\Gabrijela Projekt\pi_zadnja verzija\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUcenikBVoznjaRezultat.resources
+D:\Gabrijela Projekt\pi_zadnja verzija\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUciteljGlavni.resources
+D:\Gabrijela Projekt\pi_zadnja verzija\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUciteljKategorijaA.resources
+D:\Gabrijela Projekt\pi_zadnja verzija\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUciteljNCjelina.resources
+D:\Gabrijela Projekt\pi_zadnja verzija\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUciteljNEvidencija.resources
+D:\Gabrijela Projekt\pi_zadnja verzija\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUciteljNMaterijal.resources
+D:\Gabrijela Projekt\pi_zadnja verzija\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUciteljNOdg.resources
+D:\Gabrijela Projekt\pi_zadnja verzija\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUciteljNPitanje.resources
+D:\Gabrijela Projekt\pi_zadnja verzija\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUciteljNRok.resources
+D:\Gabrijela Projekt\pi_zadnja verzija\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUciteljPostavke.resources
+D:\Gabrijela Projekt\pi_zadnja verzija\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.formUciteljStat.resources
+D:\Gabrijela Projekt\pi_zadnja verzija\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.forme.frmCRUDKorisnika.resources
+D:\Gabrijela Projekt\pi_zadnja verzija\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.forme.frmDodajGrupu.resources
+D:\Gabrijela Projekt\pi_zadnja verzija\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.forme.frmDodajUcenikaUgrupu.resources
+D:\Gabrijela Projekt\pi_zadnja verzija\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.forme.frmEvidentirajDogadaj.resources
+D:\Gabrijela Projekt\pi_zadnja verzija\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.forme.frmGlavna.resources
+D:\Gabrijela Projekt\pi_zadnja verzija\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.forme.frmIspitniRok.resources
+D:\Gabrijela Projekt\pi_zadnja verzija\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.forme.frmKalendar.resources
+D:\Gabrijela Projekt\pi_zadnja verzija\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.forme.frmOtvoriRok.resources
+D:\Gabrijela Projekt\pi_zadnja verzija\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.forme.frmPitanja_odgovori.resources
+D:\Gabrijela Projekt\pi_zadnja verzija\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.forme.frmPredmeti.resources
+D:\Gabrijela Projekt\pi_zadnja verzija\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.forme.frmUcenik.resources
+D:\Gabrijela Projekt\pi_zadnja verzija\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.forme.Materijali.resources
+D:\Gabrijela Projekt\pi_zadnja verzija\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.forme.Odgovori.resources
+D:\Gabrijela Projekt\pi_zadnja verzija\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.forme.PristupiIspitu.resources
+D:\Gabrijela Projekt\pi_zadnja verzija\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola.Properties.Resources.resources
+D:\Gabrijela Projekt\pi_zadnja verzija\pi\autoSkola_2faza\autoSkola\obj\Debug\autoSkola_ucenik.csproj.GenerateResource.Cache
+C:\Users\Gaby\Desktop\Projekt i Baza PI\Auto Škola\Auto Škola\autoSkola\bin\Debug\autoSkola.exe.config
+C:\Users\Gaby\Desktop\Projekt i Baza PI\Auto Škola\Auto Škola\autoSkola\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Gaby\Desktop\Projekt i Baza PI\Auto Škola\Auto Škola\autoSkola\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Gaby\Desktop\Projekt i Baza PI\Auto Škola\Auto Škola\autoSkola\obj\Debug\autoSkola_ucenik.csproj.ResolveComReference.cache
+C:\Users\Gaby\Desktop\Projekt i Baza PI\Auto Škola\Auto Škola\autoSkola\obj\Debug\autoSkola.exe
+C:\Users\Gaby\Desktop\Projekt i Baza PI\Auto Škola\Auto Škola\autoSkola\obj\Debug\autoSkola.pdb
+C:\Users\Gaby\Desktop\Projekt i Baza PI\Auto Škola\Auto Škola\autoSkola\bin\Debug\autoSkola.exe
+C:\Users\Gaby\Desktop\Projekt i Baza PI\Auto Škola\Auto Škola\autoSkola\bin\Debug\System.Data.SQLite.xml
+C:\Users\Gaby\Desktop\Projekt i Baza PI\Auto Škola\Auto Škola\autoSkola\obj\Debug\autoSkola_ucenik.csprojResolveAssemblyReference.cache
+C:\Users\Gaby\Desktop\Projekt i Baza PI\Auto Škola\Auto Škola\autoSkola\obj\Debug\autoSkola.formUcenikEvidencija.resources
+C:\Users\Gaby\Desktop\Projekt i Baza PI\Auto Škola\Auto Škola\autoSkola\obj\Debug\autoSkola.formUcenikPredmet.resources
+C:\Users\Gaby\Desktop\Projekt i Baza PI\Auto Škola\Auto Škola\autoSkola\obj\Debug\autoSkola.formLozinkaPromjena.resources
+C:\Users\Gaby\Desktop\Projekt i Baza PI\Auto Škola\Auto Škola\autoSkola\obj\Debug\autoSkola.formUcenikC1Materijali.resources
+C:\Users\Gaby\Desktop\Projekt i Baza PI\Auto Škola\Auto Škola\autoSkola\obj\Debug\autoSkola.formUcenikC1Predavanje1.resources
+C:\Users\Gaby\Desktop\Projekt i Baza PI\Auto Škola\Auto Škola\autoSkola\obj\Debug\autoSkola.formUcenikC1ProbniTest.resources
+C:\Users\Gaby\Desktop\Projekt i Baza PI\Auto Škola\Auto Škola\autoSkola\obj\Debug\autoSkola.formUcenikBKat.resources
+C:\Users\Gaby\Desktop\Projekt i Baza PI\Auto Škola\Auto Škola\autoSkola\obj\Debug\autoSkola.formPrijava.resources
+C:\Users\Gaby\Desktop\Projekt i Baza PI\Auto Škola\Auto Škola\autoSkola\obj\Debug\autoSkola.formPostavke.resources
+C:\Users\Gaby\Desktop\Projekt i Baza PI\Auto Škola\Auto Škola\autoSkola\obj\Debug\autoSkola.formUcenikBTeorijaRezultat.resources
+C:\Users\Gaby\Desktop\Projekt i Baza PI\Auto Škola\Auto Škola\autoSkola\obj\Debug\autoSkola.formUcenikGlavni.resources
+C:\Users\Gaby\Desktop\Projekt i Baza PI\Auto Škola\Auto Škola\autoSkola\obj\Debug\autoSkola.formUcenikBVoznjaRezultat.resources
+C:\Users\Gaby\Desktop\Projekt i Baza PI\Auto Škola\Auto Škola\autoSkola\obj\Debug\autoSkola.formUciteljGlavni.resources
+C:\Users\Gaby\Desktop\Projekt i Baza PI\Auto Škola\Auto Škola\autoSkola\obj\Debug\autoSkola.formUciteljKategorijaA.resources
+C:\Users\Gaby\Desktop\Projekt i Baza PI\Auto Škola\Auto Škola\autoSkola\obj\Debug\autoSkola.formUciteljNCjelina.resources
+C:\Users\Gaby\Desktop\Projekt i Baza PI\Auto Škola\Auto Škola\autoSkola\obj\Debug\autoSkola.formUciteljNEvidencija.resources
+C:\Users\Gaby\Desktop\Projekt i Baza PI\Auto Škola\Auto Škola\autoSkola\obj\Debug\autoSkola.formUciteljNMaterijal.resources
+C:\Users\Gaby\Desktop\Projekt i Baza PI\Auto Škola\Auto Škola\autoSkola\obj\Debug\autoSkola.formUciteljNOdg.resources
+C:\Users\Gaby\Desktop\Projekt i Baza PI\Auto Škola\Auto Škola\autoSkola\obj\Debug\autoSkola.formUciteljNPitanje.resources
+C:\Users\Gaby\Desktop\Projekt i Baza PI\Auto Škola\Auto Škola\autoSkola\obj\Debug\autoSkola.formUciteljNRok.resources
+C:\Users\Gaby\Desktop\Projekt i Baza PI\Auto Škola\Auto Škola\autoSkola\obj\Debug\autoSkola.formUciteljPostavke.resources
+C:\Users\Gaby\Desktop\Projekt i Baza PI\Auto Škola\Auto Škola\autoSkola\obj\Debug\autoSkola.formUciteljStat.resources
+C:\Users\Gaby\Desktop\Projekt i Baza PI\Auto Škola\Auto Škola\autoSkola\obj\Debug\autoSkola.forme.frmCRUDKorisnika.resources
+C:\Users\Gaby\Desktop\Projekt i Baza PI\Auto Škola\Auto Škola\autoSkola\obj\Debug\autoSkola.forme.frmDodajGrupu.resources
+C:\Users\Gaby\Desktop\Projekt i Baza PI\Auto Škola\Auto Škola\autoSkola\obj\Debug\autoSkola.forme.frmDodajUcenikaUgrupu.resources
+C:\Users\Gaby\Desktop\Projekt i Baza PI\Auto Škola\Auto Škola\autoSkola\obj\Debug\autoSkola.forme.frmEvidentirajDogadaj.resources
+C:\Users\Gaby\Desktop\Projekt i Baza PI\Auto Škola\Auto Škola\autoSkola\obj\Debug\autoSkola.forme.frmGlavna.resources
+C:\Users\Gaby\Desktop\Projekt i Baza PI\Auto Škola\Auto Škola\autoSkola\obj\Debug\autoSkola.forme.frmIspitniRok.resources
+C:\Users\Gaby\Desktop\Projekt i Baza PI\Auto Škola\Auto Škola\autoSkola\obj\Debug\autoSkola.forme.frmKalendar.resources
+C:\Users\Gaby\Desktop\Projekt i Baza PI\Auto Škola\Auto Škola\autoSkola\obj\Debug\autoSkola.forme.frmOtvoriRok.resources
+C:\Users\Gaby\Desktop\Projekt i Baza PI\Auto Škola\Auto Škola\autoSkola\obj\Debug\autoSkola.forme.frmPitanja_odgovori.resources
+C:\Users\Gaby\Desktop\Projekt i Baza PI\Auto Škola\Auto Škola\autoSkola\obj\Debug\autoSkola.forme.frmPredmeti.resources
+C:\Users\Gaby\Desktop\Projekt i Baza PI\Auto Škola\Auto Škola\autoSkola\obj\Debug\autoSkola.forme.frmUcenik.resources
+C:\Users\Gaby\Desktop\Projekt i Baza PI\Auto Škola\Auto Škola\autoSkola\obj\Debug\autoSkola.forme.Materijali.resources
+C:\Users\Gaby\Desktop\Projekt i Baza PI\Auto Škola\Auto Škola\autoSkola\obj\Debug\autoSkola.forme.Odgovori.resources
+C:\Users\Gaby\Desktop\Projekt i Baza PI\Auto Škola\Auto Škola\autoSkola\obj\Debug\autoSkola.forme.PristupiIspitu.resources
+C:\Users\Gaby\Desktop\Projekt i Baza PI\Auto Škola\Auto Škola\autoSkola\obj\Debug\autoSkola.Properties.Resources.resources
+C:\Users\Gaby\Desktop\Projekt i Baza PI\Auto Škola\Auto Škola\autoSkola\obj\Debug\autoSkola_ucenik.csproj.GenerateResource.Cache

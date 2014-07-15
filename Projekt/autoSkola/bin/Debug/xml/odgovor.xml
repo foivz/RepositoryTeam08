@@ -1,0 +1,659 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfOdgovor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <odgovor>
+    <ID_odgovor>100</ID_odgovor>
+    <ID_pitanja>100</ID_pitanja>
+    <tekst>bilo kojom stranom kolnika                                                                                                                                                                                                                                                                                                                                                                                      </tekst>
+    <srcOdgovor />
+    <bodovi>5</bodovi>
+    <promjena>false</promjena>
+  </odgovor>
+  <odgovor>
+    <ID_odgovor>101</ID_odgovor>
+    <ID_pitanja>100</ID_pitanja>
+    <tekst>uz lijevi rub kolnika u smijeru kretanja                                                                                                                                                                                                                                                                                                                                                                        </tekst>
+    <srcOdgovor />
+    <bodovi>0</bodovi>
+    <promjena>false</promjena>
+  </odgovor>
+  <odgovor>
+    <ID_odgovor>102</ID_odgovor>
+    <ID_pitanja>100</ID_pitanja>
+    <tekst>uvijek uz desni rub kolnika u smijeru kretanja                                                                                                                                                                                                                                                                                                                                                                  </tekst>
+    <srcOdgovor />
+    <bodovi>0</bodovi>
+    <promjena>false</promjena>
+  </odgovor>
+  <odgovor>
+    <ID_odgovor>103</ID_odgovor>
+    <ID_pitanja>101</ID_pitanja>
+    <tekst>utvrditi nacin upravljanja prometom na raskrižju                                                                                                                                                                                                                                                                                                                                                                </tekst>
+    <srcOdgovor />
+    <bodovi>5</bodovi>
+    <promjena>false</promjena>
+  </odgovor>
+  <odgovor>
+    <ID_odgovor>104</ID_odgovor>
+    <ID_pitanja>101</ID_pitanja>
+    <tekst>voziti povecanom brzinom bez obzira na prometne uvjete u raskrižju                                                                                                                                                                                                                                                                                                                                              </tekst>
+    <srcOdgovor />
+    <bodovi>5</bodovi>
+    <promjena>false</promjena>
+  </odgovor>
+  <odgovor>
+    <ID_odgovor>105</ID_odgovor>
+    <ID_pitanja>101</ID_pitanja>
+    <tekst>na dovoljnoj udaljenosti pred raskrižjem zauzeti vozilom položaj u onoj prometnoj traci kojom namjeravamo proci kroz raskrižje                                                                                                                                                                                                                                                                                  </tekst>
+    <srcOdgovor />
+    <bodovi>0</bodovi>
+    <promjena>false</promjena>
+  </odgovor>
+  <odgovor>
+    <ID_odgovor>106</ID_odgovor>
+    <ID_pitanja>102</ID_pitanja>
+    <tekst>zabranu prolaska                                                                                                                                                                                                                                                                                                                                                                                                </tekst>
+    <srcOdgovor />
+    <bodovi>5</bodovi>
+    <promjena>false</promjena>
+  </odgovor>
+  <odgovor>
+    <ID_odgovor>107</ID_odgovor>
+    <ID_pitanja>102</ID_pitanja>
+    <tekst>skoru pojavu zelenog svijetla i pripravu za prelazak raskrižjem                                                                                                                                                                                                                                                                                                                                                 </tekst>
+    <srcOdgovor />
+    <bodovi>5</bodovi>
+    <promjena>false</promjena>
+  </odgovor>
+  <odgovor>
+    <ID_odgovor>108</ID_odgovor>
+    <ID_pitanja>102</ID_pitanja>
+    <tekst>dopušten prolazak kroz raskrižje                                                                                                                                                                                                                                                                                                                                                                                </tekst>
+    <srcOdgovor />
+    <bodovi>0</bodovi>
+    <promjena>false</promjena>
+  </odgovor>
+  <odgovor>
+    <ID_odgovor>109</ID_odgovor>
+    <ID_pitanja>103</ID_pitanja>
+    <tekst>atmosferskim prilikama                                                                                                                                                                                                                                                                                                                                                                                          </tekst>
+    <srcOdgovor />
+    <bodovi>5</bodovi>
+    <promjena>false</promjena>
+  </odgovor>
+  <odgovor>
+    <ID_odgovor>110</ID_odgovor>
+    <ID_pitanja>103</ID_pitanja>
+    <tekst>maksimalnoj od proizvodaca za moje vozilo                                                                                                                                                                                                                                                                                                                                                                       </tekst>
+    <srcOdgovor />
+    <bodovi>0</bodovi>
+    <promjena>false</promjena>
+  </odgovor>
+  <odgovor>
+    <ID_odgovor>111</ID_odgovor>
+    <ID_pitanja>103</ID_pitanja>
+    <tekst>osobinama i stanju ceste                                                                                                                                                                                                                                                                                                                                                                                        </tekst>
+    <srcOdgovor />
+    <bodovi>5</bodovi>
+    <promjena>false</promjena>
+  </odgovor>
+  <odgovor>
+    <ID_odgovor>112</ID_odgovor>
+    <ID_pitanja>103</ID_pitanja>
+    <tekst>vidljivosti i preglednosti                                                                                                                                                                                                                                                                                                                                                                                      </tekst>
+    <srcOdgovor />
+    <bodovi>5</bodovi>
+    <promjena>false</promjena>
+  </odgovor>
+  <odgovor>
+    <ID_odgovor>113</ID_odgovor>
+    <ID_pitanja>104</ID_pitanja>
+    <tekst>moram proci raskrižje onom prometnom trakom u koju sam se razvrstao                                                                                                                                                                                                                                                                                                                                             </tekst>
+    <srcOdgovor />
+    <bodovi>5</bodovi>
+    <promjena>false</promjena>
+  </odgovor>
+  <odgovor>
+    <ID_odgovor>114</ID_odgovor>
+    <ID_pitanja>104</ID_pitanja>
+    <tekst>moram mijenjati traku u samom raskrižju                                                                                                                                                                                                                                                                                                                                                                         </tekst>
+    <srcOdgovor />
+    <bodovi>0</bodovi>
+    <promjena>false</promjena>
+  </odgovor>
+  <odgovor>
+    <ID_odgovor>115</ID_odgovor>
+    <ID_pitanja>105</ID_pitanja>
+    <tekst>čćžšđ                                                                                                                                                                                                                                                                                                                                                                                                           </tekst>
+    <srcOdgovor />
+    <bodovi>5</bodovi>
+    <promjena>false</promjena>
+  </odgovor>
+  <odgovor>
+    <ID_odgovor>116</ID_odgovor>
+    <ID_pitanja>106</ID_pitanja>
+    <tekst>dio cestovne površine namijenjen u prvom redu za promet vozila, s jednom prometnom trakom ili više prometnih traka                                                                                                                                                                                                                                                                                              </tekst>
+    <srcOdgovor />
+    <bodovi>5</bodovi>
+    <promjena>false</promjena>
+  </odgovor>
+  <odgovor>
+    <ID_odgovor>117</ID_odgovor>
+    <ID_pitanja>106</ID_pitanja>
+    <tekst>dio cestovne površine namijenjen u prvom redu za promet pješaka, s jednom pješačkom stazom ili više pješačkih staza                                                                                                                                                                                                                                                                                             </tekst>
+    <srcOdgovor />
+    <bodovi>0</bodovi>
+    <promjena>false</promjena>
+  </odgovor>
+  <odgovor>
+    <ID_odgovor>118</ID_odgovor>
+    <ID_pitanja>107</ID_pitanja>
+    <tekst>agresivno ponašanje                                                                                                                                                                                                                                                                                                                                                                                             </tekst>
+    <srcOdgovor />
+    <bodovi>0</bodovi>
+    <promjena>false</promjena>
+  </odgovor>
+  <odgovor>
+    <ID_odgovor>119</ID_odgovor>
+    <ID_pitanja>107</ID_pitanja>
+    <tekst>prometni odgoj i prometna kultura                                                                                                                                                                                                                                                                                                                                                                               </tekst>
+    <srcOdgovor />
+    <bodovi>5</bodovi>
+    <promjena>false</promjena>
+  </odgovor>
+  <odgovor>
+    <ID_odgovor>120</ID_odgovor>
+    <ID_pitanja>108</ID_pitanja>
+    <tekst>najmanje 40, a najviše 80 metara                                                                                                                                                                                                                                                                                                                                                                                </tekst>
+    <srcOdgovor />
+    <bodovi>5</bodovi>
+    <promjena>false</promjena>
+  </odgovor>
+  <odgovor>
+    <ID_odgovor>121</ID_odgovor>
+    <ID_pitanja>108</ID_pitanja>
+    <tekst>najmanje 100 metara                                                                                                                                                                                                                                                                                                                                                                                             </tekst>
+    <srcOdgovor />
+    <bodovi>0</bodovi>
+    <promjena>false</promjena>
+  </odgovor>
+  <odgovor>
+    <ID_odgovor>122</ID_odgovor>
+    <ID_pitanja>108</ID_pitanja>
+    <tekst>najviše 35 metara                                                                                                                                                                                                                                                                                                                                                                                               </tekst>
+    <srcOdgovor />
+    <bodovi>0</bodovi>
+    <promjena>false</promjena>
+  </odgovor>
+  <odgovor>
+    <ID_odgovor>123</ID_odgovor>
+    <ID_pitanja>108</ID_pitanja>
+    <tekst>najviše 100 metara                                                                                                                                                                                                                                                                                                                                                                                              </tekst>
+    <srcOdgovor />
+    <bodovi>0</bodovi>
+    <promjena>false</promjena>
+  </odgovor>
+  <odgovor>
+    <ID_odgovor>124</ID_odgovor>
+    <ID_pitanja>109</ID_pitanja>
+    <tekst>na mostovima ili vijaduktima                                                                                                                                                                                                                                                                                                                                                                                    </tekst>
+    <srcOdgovor />
+    <bodovi>0</bodovi>
+    <promjena>false</promjena>
+  </odgovor>
+  <odgovor>
+    <ID_odgovor>125</ID_odgovor>
+    <ID_pitanja>109</ID_pitanja>
+    <tekst>na ravnim dionicama ceste                                                                                                                                                                                                                                                                                                                                                                                       </tekst>
+    <srcOdgovor />
+    <bodovi>0</bodovi>
+    <promjena>false</promjena>
+  </odgovor>
+  <odgovor>
+    <ID_odgovor>126</ID_odgovor>
+    <ID_pitanja>109</ID_pitanja>
+    <tekst>na uzbrdicama ili zavojima                                                                                                                                                                                                                                                                                                                                                                                      </tekst>
+    <srcOdgovor />
+    <bodovi>5</bodovi>
+    <promjena>false</promjena>
+  </odgovor>
+  <odgovor>
+    <ID_odgovor>127</ID_odgovor>
+    <ID_pitanja>110</ID_pitanja>
+    <tekst>nedostatno vozačko iskustvo                                                                                                                                                                                                                                                                                                                                                                                     </tekst>
+    <srcOdgovor />
+    <bodovi>0</bodovi>
+    <promjena>false</promjena>
+  </odgovor>
+  <odgovor>
+    <ID_odgovor>128</ID_odgovor>
+    <ID_pitanja>110</ID_pitanja>
+    <tekst>vožnja neprilagođeom brzinom                                                                                                                                                                                                                                                                                                                                                                                    </tekst>
+    <srcOdgovor />
+    <bodovi>5</bodovi>
+    <promjena>false</promjena>
+  </odgovor>
+  <odgovor>
+    <ID_odgovor>129</ID_odgovor>
+    <ID_pitanja>110</ID_pitanja>
+    <tekst>vožnja pod utjecajem alkohola i droga                                                                                                                                                                                                                                                                                                                                                                           </tekst>
+    <srcOdgovor />
+    <bodovi>0</bodovi>
+    <promjena>false</promjena>
+  </odgovor>
+  <odgovor>
+    <ID_odgovor>130</ID_odgovor>
+    <ID_pitanja>111</ID_pitanja>
+    <tekst>vozači teretnih automobila                                                                                                                                                                                                                                                                                                                                                                                      </tekst>
+    <srcOdgovor />
+    <bodovi>0</bodovi>
+    <promjena>false</promjena>
+  </odgovor>
+  <odgovor>
+    <ID_odgovor>131</ID_odgovor>
+    <ID_pitanja>111</ID_pitanja>
+    <tekst>neosvijetljeni biciklisti                                                                                                                                                                                                                                                                                                                                                                                       </tekst>
+    <srcOdgovor />
+    <bodovi>5</bodovi>
+    <promjena>false</promjena>
+  </odgovor>
+  <odgovor>
+    <ID_odgovor>132</ID_odgovor>
+    <ID_pitanja>112</ID_pitanja>
+    <tekst>pobliže odrediti značenje prometnog znaka                                                                                                                                                                                                                                                                                                                                                                       </tekst>
+    <srcOdgovor />
+    <bodovi>5</bodovi>
+    <promjena>false</promjena>
+  </odgovor>
+  <odgovor>
+    <ID_odgovor>133</ID_odgovor>
+    <ID_pitanja>112</ID_pitanja>
+    <tekst>najaviti udaljenost do sljedećega prometnog znaka                                                                                                                                                                                                                                                                                                                                                               </tekst>
+    <srcOdgovor />
+    <bodovi>0</bodovi>
+    <promjena>false</promjena>
+  </odgovor>
+  <odgovor>
+    <ID_odgovor>134</ID_odgovor>
+    <ID_pitanja>113</ID_pitanja>
+    <tekst>uvjeriti se da radnju može obaviti bez opasnosti za druge sudionike u prometu                                                                                                                                                                                                                                                                                                                                   </tekst>
+    <srcOdgovor />
+    <bodovi>5</bodovi>
+    <promjena>false</promjena>
+  </odgovor>
+  <odgovor>
+    <ID_odgovor>135</ID_odgovor>
+    <ID_pitanja>113</ID_pitanja>
+    <tekst>uvjeriti se da radnju može obaviti uz što manji razmak između vozila                                                                                                                                                                                                                                                                                                                                            </tekst>
+    <srcOdgovor />
+    <bodovi>0</bodovi>
+    <promjena>false</promjena>
+  </odgovor>
+  <odgovor>
+    <ID_odgovor>136</ID_odgovor>
+    <ID_pitanja>114</ID_pitanja>
+    <tekst>propustiti sva vozila koja se kreću cestom na koju se uključuje                                                                                                                                                                                                                                                                                                                                                 </tekst>
+    <srcOdgovor />
+    <bodovi>5</bodovi>
+    <promjena>false</promjena>
+  </odgovor>
+  <odgovor>
+    <ID_odgovor>137</ID_odgovor>
+    <ID_pitanja>114</ID_pitanja>
+    <tekst>propustiti samo vozila koja mu dolaze ususret                                                                                                                                                                                                                                                                                                                                                                   </tekst>
+    <srcOdgovor />
+    <bodovi>0</bodovi>
+    <promjena>false</promjena>
+  </odgovor>
+  <odgovor>
+    <ID_odgovor>138</ID_odgovor>
+    <ID_pitanja>114</ID_pitanja>
+    <tekst>propustiti sve pješake koji se kreću cestom na koju se uključuje                                                                                                                                                                                                                                                                                                                                                </tekst>
+    <srcOdgovor />
+    <bodovi>0</bodovi>
+    <promjena>false</promjena>
+  </odgovor>
+  <odgovor>
+    <ID_odgovor>139</ID_odgovor>
+    <ID_pitanja>115</ID_pitanja>
+    <tekst>nogostup                                                                                                                                                                                                                                                                                                                                                                                                        </tekst>
+    <srcOdgovor />
+    <bodovi>0</bodovi>
+    <promjena>false</promjena>
+  </odgovor>
+  <odgovor>
+    <ID_odgovor>140</ID_odgovor>
+    <ID_pitanja>115</ID_pitanja>
+    <tekst>isključivo kolnik                                                                                                                                                                                                                                                                                                                                                                                               </tekst>
+    <srcOdgovor />
+    <bodovi>5</bodovi>
+    <promjena>false</promjena>
+  </odgovor>
+  <odgovor>
+    <ID_odgovor>141</ID_odgovor>
+    <ID_pitanja>115</ID_pitanja>
+    <tekst>pješačku stazu                                                                                                                                                                                                                                                                                                                                                                                                  </tekst>
+    <srcOdgovor />
+    <bodovi>0</bodovi>
+    <promjena>false</promjena>
+  </odgovor>
+  <odgovor>
+    <ID_odgovor>142</ID_odgovor>
+    <ID_pitanja>116</ID_pitanja>
+    <tekst>što bliže sredini kolnika                                                                                                                                                                                                                                                                                                                                                                                       </tekst>
+    <srcOdgovor />
+    <bodovi>0</bodovi>
+    <promjena>false</promjena>
+  </odgovor>
+  <odgovor>
+    <ID_odgovor>143</ID_odgovor>
+    <ID_pitanja>116</ID_pitanja>
+    <tekst>što bliže desnom rubu kolnika                                                                                                                                                                                                                                                                                                                                                                                   </tekst>
+    <srcOdgovor />
+    <bodovi>5</bodovi>
+    <promjena>false</promjena>
+  </odgovor>
+  <odgovor>
+    <ID_odgovor>144</ID_odgovor>
+    <ID_pitanja>116</ID_pitanja>
+    <tekst>lijevom stranom kolnika                                                                                                                                                                                                                                                                                                                                                                                         </tekst>
+    <srcOdgovor />
+    <bodovi>0</bodovi>
+    <promjena>false</promjena>
+  </odgovor>
+  <odgovor>
+    <ID_odgovor>145</ID_odgovor>
+    <ID_pitanja>117</ID_pitanja>
+    <tekst>lijevi pokazivač smjera                                                                                                                                                                                                                                                                                                                                                                                         </tekst>
+    <srcOdgovor />
+    <bodovi>0</bodovi>
+    <promjena>false</promjena>
+  </odgovor>
+  <odgovor>
+    <ID_odgovor>146</ID_odgovor>
+    <ID_pitanja>117</ID_pitanja>
+    <tekst>sve pokazivače smjera                                                                                                                                                                                                                                                                                                                                                                                           </tekst>
+    <srcOdgovor />
+    <bodovi>5</bodovi>
+    <promjena>false</promjena>
+  </odgovor>
+  <odgovor>
+    <ID_odgovor>147</ID_odgovor>
+    <ID_pitanja>117</ID_pitanja>
+    <tekst>samo desni pokazivač smjera                                                                                                                                                                                                                                                                                                                                                                                     </tekst>
+    <srcOdgovor />
+    <bodovi>0</bodovi>
+    <promjena>false</promjena>
+  </odgovor>
+  <odgovor>
+    <ID_odgovor>148</ID_odgovor>
+    <ID_pitanja>118</ID_pitanja>
+    <tekst>90 km na sat                                                                                                                                                                                                                                                                                                                                                                                                    </tekst>
+    <srcOdgovor />
+    <bodovi>0</bodovi>
+    <promjena>false</promjena>
+  </odgovor>
+  <odgovor>
+    <ID_odgovor>149</ID_odgovor>
+    <ID_pitanja>118</ID_pitanja>
+    <tekst>110 km na sat                                                                                                                                                                                                                                                                                                                                                                                                   </tekst>
+    <srcOdgovor />
+    <bodovi>5</bodovi>
+    <promjena>false</promjena>
+  </odgovor>
+  <odgovor>
+    <ID_odgovor>150</ID_odgovor>
+    <ID_pitanja>118</ID_pitanja>
+    <tekst>130 km na sat                                                                                                                                                                                                                                                                                                                                                                                                   </tekst>
+    <srcOdgovor />
+    <bodovi>0</bodovi>
+    <promjena>false</promjena>
+  </odgovor>
+  <odgovor>
+    <ID_odgovor>151</ID_odgovor>
+    <ID_pitanja>119</ID_pitanja>
+    <tekst>povećati brzinu i što prije proći kroz raskrižje                                                                                                                                                                                                                                                                                                                                                                </tekst>
+    <srcOdgovor />
+    <bodovi>0</bodovi>
+    <promjena>false</promjena>
+  </odgovor>
+  <odgovor>
+    <ID_odgovor>152</ID_odgovor>
+    <ID_pitanja>119</ID_pitanja>
+    <tekst>utvrditi način uređenja odvijanja prometa na raskrižju                                                                                                                                                                                                                                                                                                                                                          </tekst>
+    <srcOdgovor />
+    <bodovi>5</bodovi>
+    <promjena>false</promjena>
+  </odgovor>
+  <odgovor>
+    <ID_odgovor>153</ID_odgovor>
+    <ID_pitanja>120</ID_pitanja>
+    <tekst>o bočnim smetnjama uz cestu                                                                                                                                                                                                                                                                                                                                                                                     </tekst>
+    <srcOdgovor />
+    <bodovi>0</bodovi>
+    <promjena>false</promjena>
+  </odgovor>
+  <odgovor>
+    <ID_odgovor>154</ID_odgovor>
+    <ID_pitanja>120</ID_pitanja>
+    <tekst>o položaju vozila, smjeru i brzini vožnje                                                                                                                                                                                                                                                                                                                                                                       </tekst>
+    <srcOdgovor />
+    <bodovi>5</bodovi>
+    <promjena>false</promjena>
+  </odgovor>
+  <odgovor>
+    <ID_odgovor>155</ID_odgovor>
+    <ID_pitanja>121</ID_pitanja>
+    <tekst>teretne automobile                                                                                                                                                                                                                                                                                                                                                                                              </tekst>
+    <srcOdgovor />
+    <bodovi>0</bodovi>
+    <promjena>false</promjena>
+  </odgovor>
+  <odgovor>
+    <ID_odgovor>156</ID_odgovor>
+    <ID_pitanja>121</ID_pitanja>
+    <tekst>motocikle i mopede                                                                                                                                                                                                                                                                                                                                                                                              </tekst>
+    <srcOdgovor />
+    <bodovi>0</bodovi>
+    <promjena>false</promjena>
+  </odgovor>
+  <odgovor>
+    <ID_odgovor>157</ID_odgovor>
+    <ID_pitanja>121</ID_pitanja>
+    <tekst>vozila koja se kreću po tračnicama                                                                                                                                                                                                                                                                                                                                                                              </tekst>
+    <srcOdgovor />
+    <bodovi>5</bodovi>
+    <promjena>false</promjena>
+  </odgovor>
+  <odgovor>
+    <ID_odgovor>158</ID_odgovor>
+    <ID_pitanja>122</ID_pitanja>
+    <tekst>motornim vozilima koja pripadaju M, F i G kategoriji                                                                                                                                                                                                                                                                                                                                                            </tekst>
+    <srcOdgovor />
+    <bodovi>5</bodovi>
+    <promjena>false</promjena>
+  </odgovor>
+  <odgovor>
+    <ID_odgovor>159</ID_odgovor>
+    <ID_pitanja>122</ID_pitanja>
+    <tekst>motornim vozilima koja pripadaju B+E i H kategoriji                                                                                                                                                                                                                                                                                                                                                             </tekst>
+    <srcOdgovor />
+    <bodovi>0</bodovi>
+    <promjena>false</promjena>
+  </odgovor>
+  <odgovor>
+    <ID_odgovor>160</ID_odgovor>
+    <ID_pitanja>122</ID_pitanja>
+    <tekst>samo motornim vozilima koja pripadaju B kategoriji                                                                                                                                                                                                                                                                                                                                                              </tekst>
+    <srcOdgovor />
+    <bodovi>0</bodovi>
+    <promjena>false</promjena>
+  </odgovor>
+  <odgovor>
+    <ID_odgovor>161</ID_odgovor>
+    <ID_pitanja>123</ID_pitanja>
+    <tekst>voziti s predviđanjem                                                                                                                                                                                                                                                                                                                                                                                           </tekst>
+    <srcOdgovor />
+    <bodovi>5</bodovi>
+    <promjena>false</promjena>
+  </odgovor>
+  <odgovor>
+    <ID_odgovor>162</ID_odgovor>
+    <ID_pitanja>123</ID_pitanja>
+    <tekst>uvijek voziti polagano                                                                                                                                                                                                                                                                                                                                                                                          </tekst>
+    <srcOdgovor />
+    <bodovi>0</bodovi>
+    <promjena>false</promjena>
+  </odgovor>
+  <odgovor>
+    <ID_odgovor>163</ID_odgovor>
+    <ID_pitanja>124</ID_pitanja>
+    <tekst>voziti s upaljenim dugim svjetlima                                                                                                                                                                                                                                                                                                                                                                              </tekst>
+    <srcOdgovor />
+    <bodovi>0</bodovi>
+    <promjena>false</promjena>
+  </odgovor>
+  <odgovor>
+    <ID_odgovor>164</ID_odgovor>
+    <ID_pitanja>124</ID_pitanja>
+    <tekst>naizmjeničnim paljenjem dugih i kratkih svjetala dati znak upozorenja                                                                                                                                                                                                                                                                                                                                           </tekst>
+    <srcOdgovor />
+    <bodovi>5</bodovi>
+    <promjena>false</promjena>
+  </odgovor>
+  <odgovor>
+    <ID_odgovor>165</ID_odgovor>
+    <ID_pitanja>125</ID_pitanja>
+    <tekst>na mostovima ili vijaduktima                                                                                                                                                                                                                                                                                                                                                                                    </tekst>
+    <srcOdgovor />
+    <bodovi>5</bodovi>
+    <promjena>false</promjena>
+  </odgovor>
+  <odgovor>
+    <ID_odgovor>166</ID_odgovor>
+    <ID_pitanja>125</ID_pitanja>
+    <tekst>na otvorenim dionicama ceste                                                                                                                                                                                                                                                                                                                                                                                    </tekst>
+    <srcOdgovor />
+    <bodovi>0</bodovi>
+    <promjena>false</promjena>
+  </odgovor>
+  <odgovor>
+    <ID_odgovor>167</ID_odgovor>
+    <ID_pitanja>125</ID_pitanja>
+    <tekst>na usjecima i zaklonjenim dionicama ceste                                                                                                                                                                                                                                                                                                                                                                       </tekst>
+    <srcOdgovor />
+    <bodovi>0</bodovi>
+    <promjena>false</promjena>
+  </odgovor>
+  <odgovor>
+    <ID_odgovor>168</ID_odgovor>
+    <ID_pitanja>126</ID_pitanja>
+    <tekst>u pravilu zabranu prolaska                                                                                                                                                                                                                                                                                                                                                                                      </tekst>
+    <srcOdgovor />
+    <bodovi>5</bodovi>
+    <promjena>false</promjena>
+  </odgovor>
+  <odgovor>
+    <ID_odgovor>169</ID_odgovor>
+    <ID_pitanja>126</ID_pitanja>
+    <tekst>slobodan prolaz                                                                                                                                                                                                                                                                                                                                                                                                 </tekst>
+    <srcOdgovor />
+    <bodovi>0</bodovi>
+    <promjena>false</promjena>
+  </odgovor>
+  <odgovor>
+    <ID_odgovor>170</ID_odgovor>
+    <ID_pitanja>126</ID_pitanja>
+    <tekst>isključen semafor                                                                                                                                                                                                                                                                                                                                                                                               </tekst>
+    <srcOdgovor />
+    <bodovi>0</bodovi>
+    <promjena>false</promjena>
+  </odgovor>
+  <odgovor>
+    <ID_odgovor>171</ID_odgovor>
+    <ID_pitanja>127</ID_pitanja>
+    <tekst>samo u trenutku započinjanja radnje                                                                                                                                                                                                                                                                                                                                                                             </tekst>
+    <srcOdgovor />
+    <bodovi>0</bodovi>
+    <promjena>false</promjena>
+  </odgovor>
+  <odgovor>
+    <ID_odgovor>172</ID_odgovor>
+    <ID_pitanja>127</ID_pitanja>
+    <tekst>samo na kraju radnje                                                                                                                                                                                                                                                                                                                                                                                            </tekst>
+    <srcOdgovor />
+    <bodovi>0</bodovi>
+    <promjena>false</promjena>
+  </odgovor>
+  <odgovor>
+    <ID_odgovor>173</ID_odgovor>
+    <ID_pitanja>127</ID_pitanja>
+    <tekst>za cijelo vrijeme obavljanja radnje                                                                                                                                                                                                                                                                                                                                                                             </tekst>
+    <srcOdgovor />
+    <bodovi>5</bodovi>
+    <promjena>false</promjena>
+  </odgovor>
+  <odgovor>
+    <ID_odgovor>174</ID_odgovor>
+    <ID_pitanja>128</ID_pitanja>
+    <tekst>po prometnim znakovima                                                                                                                                                                                                                                                                                                                                                                                          </tekst>
+    <srcOdgovor />
+    <bodovi>0</bodovi>
+    <promjena>false</promjena>
+  </odgovor>
+  <odgovor>
+    <ID_odgovor>175</ID_odgovor>
+    <ID_pitanja>128</ID_pitanja>
+    <tekst>po nailasku vozila iz poprečnih smjerova                                                                                                                                                                                                                                                                                                                                                                        </tekst>
+    <srcOdgovor />
+    <bodovi>5</bodovi>
+    <promjena>false</promjena>
+  </odgovor>
+  <odgovor>
+    <ID_odgovor>176</ID_odgovor>
+    <ID_pitanja>128</ID_pitanja>
+    <tekst>po reklamnim panoima                                                                                                                                                                                                                                                                                                                                                                                            </tekst>
+    <srcOdgovor />
+    <bodovi>0</bodovi>
+    <promjena>false</promjena>
+  </odgovor>
+  <odgovor>
+    <ID_odgovor>177</ID_odgovor>
+    <ID_pitanja>129</ID_pitanja>
+    <tekst>ako je vozilo na kolniku zauzelo takava položaj i njegov vozač daje takav znak da se sa sigurnošću može zaključiti da to vozilo skreće ulijevo                                                                                                                                                                                                                                                                  </tekst>
+    <srcOdgovor />
+    <bodovi>5</bodovi>
+    <promjena>false</promjena>
+  </odgovor>
+  <odgovor>
+    <ID_odgovor>178</ID_odgovor>
+    <ID_pitanja>129</ID_pitanja>
+    <tekst>ako je vozilo na kolniku zauzelo takav položaj i njegov vozač daje takav znak da se sa sigurnošću može zaključiti da to vozilo skreće udesno                                                                                                                                                                                                                                                                    </tekst>
+    <srcOdgovor />
+    <bodovi>0</bodovi>
+    <promjena>false</promjena>
+  </odgovor>
+  <odgovor>
+    <ID_odgovor>179</ID_odgovor>
+    <ID_pitanja>130</ID_pitanja>
+    <tekst>ako je vozač vozila iza vas počeo pretjecati                                                                                                                                                                                                                                                                                                                                                                    </tekst>
+    <srcOdgovor />
+    <bodovi>5</bodovi>
+    <promjena>false</promjena>
+  </odgovor>
+  <odgovor>
+    <ID_odgovor>180</ID_odgovor>
+    <ID_pitanja>130</ID_pitanja>
+    <tekst>ako je vozač vozila ispred u istoj prometnoj traci dao znak da namjerava pretjecati                                                                                                                                                                                                                                                                                                                             </tekst>
+    <srcOdgovor />
+    <bodovi>5</bodovi>
+    <promjena>false</promjena>
+  </odgovor>
+  <odgovor>
+    <ID_odgovor>181</ID_odgovor>
+    <ID_pitanja>130</ID_pitanja>
+    <tekst>ako je prometna traka kojom namjerava pretjecati slobodna                                                                                                                                                                                                                                                                                                                                                       </tekst>
+    <srcOdgovor />
+    <bodovi>0</bodovi>
+    <promjena>false</promjena>
+  </odgovor>
+</ArrayOfOdgovor>

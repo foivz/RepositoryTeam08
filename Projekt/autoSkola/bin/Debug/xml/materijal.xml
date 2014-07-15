@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfMaterijal xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <materijal>
+    <ID_materijal>100</ID_materijal>
+    <ID_cjelina>100</ID_cjelina>
+    <opis>test                                                                                                                                                                                                                                                                                                                                                                                                            </opis>
+    <srcMaterijal>test.txt                                                                                                                                                                                                                                                                                                                                                                                                        </srcMaterijal>
+    <promjena>false</promjena>
+  </materijal>
+  <materijal>
+    <ID_materijal>101</ID_materijal>
+    <ID_cjelina>100</ID_cjelina>
+    <opis>test2                                                                                                                                                                                                                                                                                                                                                                                                           </opis>
+    <srcMaterijal>test2.txt                                                                                                                                                                                                                                                                                                                                                                                                       </srcMaterijal>
+    <promjena>false</promjena>
+  </materijal>
+  <materijal>
+    <ID_materijal>102</ID_materijal>
+    <ID_cjelina>100</ID_cjelina>
+    <opis>da                                                                                                                                                                                                                                                                                                                                                                                                              </opis>
+    <srcMaterijal>valid-xhtml10.png                                                                                                                                                                                                                                                                                                                                                                                               </srcMaterijal>
+    <promjena>false</promjena>
+  </materijal>
+  <materijal>
+    <ID_materijal>103</ID_materijal>
+    <ID_cjelina>100</ID_cjelina>
+    <opis>da                                                                                                                                                                                                                                                                                                                                                                                                              </opis>
+    <srcMaterijal>contact.html                                                                                                                                                                                                                                                                                                                                                                                                    </srcMaterijal>
+    <promjena>false</promjena>
+  </materijal>
+  <materijal>
+    <ID_materijal>104</ID_materijal>
+    <ID_cjelina>100</ID_cjelina>
+    <opis>da                                                                                                                                                                                                                                                                                                                                                                                                              </opis>
+    <srcMaterijal>lame.css                                                                                                                                                                                                                                                                                                                                                                                                        </srcMaterijal>
+    <promjena>false</promjena>
+  </materijal>
+</ArrayOfMaterijal>

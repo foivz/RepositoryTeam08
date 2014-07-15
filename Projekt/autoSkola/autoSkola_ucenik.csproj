@@ -1,0 +1,474 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E0E1545F-C090-46D0-95CA-B201F3FDD6A4}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>autoSkola</RootNamespace>
+    <AssemblyName>autoSkola</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.SQLite">
+      <HintPath>..\..\autoskola_2805\autoskola_2805\lib\System.Data.SQLite.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="baza\baza.cs" />
+    <Compile Include="baza\cjelina.cs" />
+    <Compile Include="baza\Upiti.cs" />
+    <Compile Include="forme\formUcenikEvidencija.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forme\formUcenikEvidencija.Designer.cs">
+      <DependentUpon>formUcenikEvidencija.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forme\formUcenikPredmet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forme\formUcenikPredmet.Designer.cs">
+      <DependentUpon>formUcenikPredmet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="data.cs" />
+    <Compile Include="baza\dogadjaj.cs" />
+    <Compile Include="forme\formLozinkaPromjena.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forme\formLozinkaPromjena.Designer.cs">
+      <DependentUpon>formLozinkaPromjena.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forme\formUcenikC1Materijali.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forme\formUcenikC1Materijali.Designer.cs">
+      <DependentUpon>formUcenikC1Materijali.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forme\formUcenikC1Predavanje1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forme\formUcenikC1Predavanje1.Designer.cs">
+      <DependentUpon>formUcenikC1Predavanje1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forme\formUcenikC1ProbniTest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forme\formUcenikC1ProbniTest.Designer.cs">
+      <DependentUpon>formUcenikC1ProbniTest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forme\formUcenikBKat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forme\formUcenikBKat.Designer.cs">
+      <DependentUpon>formUcenikBKat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forme\formPrijava.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forme\formPrijava.Designer.cs">
+      <DependentUpon>formPrijava.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forme\formPostavke.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forme\formPostavke.Designer.cs">
+      <DependentUpon>formPostavke.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forme\formUcenikBTeorijaRezultat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forme\formUcenikBTeorijaRezultat.Designer.cs">
+      <DependentUpon>formUcenikBTeorijaRezultat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forme\formUcenikGlavni.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forme\formUcenikGlavni.Designer.cs">
+      <DependentUpon>formUcenikGlavni.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forme\formUcenikBVoznjaRezultat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forme\formUcenikBVoznjaRezultat.Designer.cs">
+      <DependentUpon>formUcenikBVoznjaRezultat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forme\formUciteljGlavni.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forme\formUciteljGlavni.Designer.cs">
+      <DependentUpon>formUciteljGlavni.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forme\formUciteljKategorijaA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forme\formUciteljKategorijaA.Designer.cs">
+      <DependentUpon>formUciteljKategorijaA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forme\formUciteljNCjelina.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forme\formUciteljNCjelina.Designer.cs">
+      <DependentUpon>formUciteljNCjelina.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forme\formUciteljNEvidencija.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forme\formUciteljNEvidencija.Designer.cs">
+      <DependentUpon>formUciteljNEvidencija.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forme\formUciteljNMaterijal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forme\formUciteljNMaterijal.Designer.cs">
+      <DependentUpon>formUciteljNMaterijal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forme\formUciteljNOdg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forme\formUciteljNOdg.Designer.cs">
+      <DependentUpon>formUciteljNOdg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forme\formUciteljNPitanje.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forme\formUciteljNPitanje.Designer.cs">
+      <DependentUpon>formUciteljNPitanje.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forme\formUciteljNRok.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forme\formUciteljNRok.Designer.cs">
+      <DependentUpon>formUciteljNRok.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forme\formUciteljPostavke.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forme\formUciteljPostavke.Designer.cs">
+      <DependentUpon>formUciteljPostavke.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forme\formUciteljStat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forme\formUciteljStat.Designer.cs">
+      <DependentUpon>formUciteljStat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forme\frmCRUDKorisnika.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forme\frmCRUDKorisnika.Designer.cs">
+      <DependentUpon>frmCRUDKorisnika.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forme\frmDodajGrupu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forme\frmDodajGrupu.Designer.cs">
+      <DependentUpon>frmDodajGrupu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forme\frmDodajUcenikaUgrupu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forme\frmDodajUcenikaUgrupu.Designer.cs">
+      <DependentUpon>frmDodajUcenikaUgrupu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forme\frmEvidentirajDogadaj.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forme\frmEvidentirajDogadaj.Designer.cs">
+      <DependentUpon>frmEvidentirajDogadaj.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forme\frmGlavn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forme\frmGlavn.Designer.cs">
+      <DependentUpon>frmGlavn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forme\frmIspitniRok.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forme\frmIspitniRok.Designer.cs">
+      <DependentUpon>frmIspitniRok.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forme\frmKalendar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forme\frmKalendar.Designer.cs">
+      <DependentUpon>frmKalendar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forme\frmOtvoriRok.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forme\frmOtvoriRok.Designer.cs">
+      <DependentUpon>frmOtvoriRok.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forme\frmPitanja_odgovori.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forme\frmPitanja_odgovori.Designer.cs">
+      <DependentUpon>frmPitanja_odgovori.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forme\frmPredmeti.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forme\frmPredmeti.Designer.cs">
+      <DependentUpon>frmPredmeti.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forme\frmUcenik.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forme\frmUcenik.Designer.cs">
+      <DependentUpon>frmUcenik.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forme\Materijali.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forme\Materijali.Designer.cs">
+      <DependentUpon>Materijali.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forme\Odgovori.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forme\Odgovori.Designer.cs">
+      <DependentUpon>Odgovori.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forme\PristupiIspitu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forme\PristupiIspitu.Designer.cs">
+      <DependentUpon>PristupiIspitu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pi2014grgicakdbDataSet.cs">
+      <DependentUpon>pi2014grgicakdbDataSet.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="updateFTP.cs" />
+    <Compile Include="baza\grupa.cs" />
+    <Compile Include="baza\ispit.cs" />
+    <Compile Include="baza\korisnik.cs" />
+    <Compile Include="baza\korisnikTip.cs" />
+    <Compile Include="baza\korisnik_dogadjaj.cs" />
+    <Compile Include="baza\korisnik_grupa.cs" />
+    <Compile Include="baza\korisnik_ispit.cs" />
+    <Compile Include="baza\materijal.cs" />
+    <Compile Include="baza\odgovor.cs" />
+    <Compile Include="baza\odgovor_ispit.cs" />
+    <Compile Include="pi2014grgicakdbDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>pi2014grgicakdbDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="baza\pitanja.cs" />
+    <Compile Include="baza\predmet.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="updateDB.cs" />
+    <Compile Include="xmlManip.cs" />
+    <EmbeddedResource Include="forme\formUcenikEvidencija.resx">
+      <DependentUpon>formUcenikEvidencija.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forme\formUcenikPredmet.resx">
+      <DependentUpon>formUcenikPredmet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forme\formLozinkaPromjena.resx">
+      <DependentUpon>formLozinkaPromjena.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forme\formUcenikC1Materijali.resx">
+      <DependentUpon>formUcenikC1Materijali.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forme\formUcenikC1Predavanje1.resx">
+      <DependentUpon>formUcenikC1Predavanje1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forme\formUcenikC1ProbniTest.resx">
+      <DependentUpon>formUcenikC1ProbniTest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forme\formUcenikBKat.resx">
+      <DependentUpon>formUcenikBKat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forme\formPrijava.resx">
+      <DependentUpon>formPrijava.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forme\formPostavke.resx">
+      <DependentUpon>formPostavke.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forme\formUcenikBTeorijaRezultat.resx">
+      <DependentUpon>formUcenikBTeorijaRezultat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forme\formUcenikGlavni.resx">
+      <DependentUpon>formUcenikGlavni.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forme\formUcenikBVoznjaRezultat.resx">
+      <DependentUpon>formUcenikBVoznjaRezultat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forme\formUciteljGlavni.resx">
+      <DependentUpon>formUciteljGlavni.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forme\formUciteljKategorijaA.resx">
+      <DependentUpon>formUciteljKategorijaA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forme\formUciteljNCjelina.resx">
+      <DependentUpon>formUciteljNCjelina.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forme\formUciteljNEvidencija.resx">
+      <DependentUpon>formUciteljNEvidencija.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forme\formUciteljNMaterijal.resx">
+      <DependentUpon>formUciteljNMaterijal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forme\formUciteljNOdg.resx">
+      <DependentUpon>formUciteljNOdg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forme\formUciteljNPitanje.resx">
+      <DependentUpon>formUciteljNPitanje.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forme\formUciteljNRok.resx">
+      <DependentUpon>formUciteljNRok.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forme\formUciteljPostavke.resx">
+      <DependentUpon>formUciteljPostavke.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forme\formUciteljStat.resx">
+      <DependentUpon>formUciteljStat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forme\frmCRUDKorisnika.resx">
+      <DependentUpon>frmCRUDKorisnika.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forme\frmDodajGrupu.resx">
+      <DependentUpon>frmDodajGrupu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forme\frmDodajUcenikaUgrupu.resx">
+      <DependentUpon>frmDodajUcenikaUgrupu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forme\frmEvidentirajDogadaj.resx">
+      <DependentUpon>frmEvidentirajDogadaj.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forme\frmGlavn.resx">
+      <DependentUpon>frmGlavn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forme\frmIspitniRok.resx">
+      <DependentUpon>frmIspitniRok.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forme\frmKalendar.resx">
+      <DependentUpon>frmKalendar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forme\frmOtvoriRok.resx">
+      <DependentUpon>frmOtvoriRok.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forme\frmPitanja_odgovori.resx">
+      <DependentUpon>frmPitanja_odgovori.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forme\frmPredmeti.resx">
+      <DependentUpon>frmPredmeti.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forme\frmUcenik.resx">
+      <DependentUpon>frmUcenik.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forme\Materijali.resx">
+      <DependentUpon>Materijali.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forme\Odgovori.resx">
+      <DependentUpon>Odgovori.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forme\PristupiIspitu.resx">
+      <DependentUpon>PristupiIspitu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="pi2014grgicakdbDataSet.xsc">
+      <DependentUpon>pi2014grgicakdbDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="pi2014grgicakdbDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>pi2014grgicakdbDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="pi2014grgicakdbDataSet.xss">
+      <DependentUpon>pi2014grgicakdbDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AcroPDFLib">
+      <Guid>{05BFD3F1-6319-4F30-B752-C7A22889BCC4}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="AxAcroPDFLib">
+      <Guid>{05BFD3F1-6319-4F30-B752-C7A22889BCC4}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\znak5.gif" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

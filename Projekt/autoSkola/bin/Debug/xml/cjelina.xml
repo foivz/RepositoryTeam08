@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCjelina xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <cjelina>
+    <ID_cjelina>102</ID_cjelina>
+    <ID_predmet>100</ID_predmet>
+    <naziv>Upravljanje vozilom                               </naziv>
+    <opis>testiranje polaznika u stvarnim okolnostima                                                                                                                                                                                                                                                                                                                                                                     </opis>
+    <bodovi>50</bodovi>
+    <promjena>false</promjena>
+    <prolaz>0</prolaz>
+  </cjelina>
+</ArrayOfCjelina>

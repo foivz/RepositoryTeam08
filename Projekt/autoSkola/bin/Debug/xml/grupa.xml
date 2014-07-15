@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfGrupa xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <grupa>
+    <ID_grupa>102</ID_grupa>
+    <ID_cjelina>102</ID_cjelina>
+    <predavac>103</predavac>
+    <promjena>false</promjena>
+  </grupa>
+</ArrayOfGrupa>

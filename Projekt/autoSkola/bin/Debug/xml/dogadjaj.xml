@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfDogadjaj xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <dogadjaj>
+    <ID_dogadjaj>104</ID_dogadjaj>
+    <kreirao>103</kreirao>
+    <napomena>vožnja                                                                                                                                                                                                                                                                                                                                                                                                          </napomena>
+    <datum>2013-08-31T09:00:00</datum>
+    <promjena>false</promjena>
+  </dogadjaj>
+  <dogadjaj>
+    <ID_dogadjaj>104</ID_dogadjaj>
+    <kreirao>103</kreirao>
+    <napomena>vožnja                                                                                                                                                                                                                                                                                                                                                                                                          </napomena>
+    <datum>2013-08-31T09:00:00</datum>
+    <promjena>false</promjena>
+  </dogadjaj>
+  <dogadjaj>
+    <ID_dogadjaj>104</ID_dogadjaj>
+    <kreirao>103</kreirao>
+    <napomena>vožnja                                                                                                                                                                                                                                                                                                                                                                                                          </napomena>
+    <datum>2013-08-31T09:00:00</datum>
+    <promjena>false</promjena>
+  </dogadjaj>
+  <dogadjaj>
+    <ID_dogadjaj>104</ID_dogadjaj>
+    <kreirao>103</kreirao>
+    <napomena>vožnja                                                                                                                                                                                                                                                                                                                                                                                                          </napomena>
+    <datum>2013-08-31T09:00:00</datum>
+    <promjena>false</promjena>
+  </dogadjaj>
+  <dogadjaj>
+    <ID_dogadjaj>104</ID_dogadjaj>
+    <kreirao>103</kreirao>
+    <napomena>vožnja                                                                                                                                                                                                                                                                                                                                                                                                          </napomena>
+    <datum>2013-08-31T09:00:00</datum>
+    <promjena>false</promjena>
+  </dogadjaj>
+</ArrayOfDogadjaj>

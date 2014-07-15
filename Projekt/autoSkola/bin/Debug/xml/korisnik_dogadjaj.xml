@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfKorisnik_dogadjaj xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <korisnik_dogadjaj>
+    <ID_dogadjaj>104</ID_dogadjaj>
+    <ID_korisnik>100</ID_korisnik>
+    <dolazak>false</dolazak>
+    <promjena>false</promjena>
+  </korisnik_dogadjaj>
+</ArrayOfKorisnik_dogadjaj>
